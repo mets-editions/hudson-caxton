@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Hudson-Caxton-18-Blanchardyn-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Blanchardyn and Eglantine</title><author>Hudson, Harriet</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-12" to="2024-02">Audited documents prior to print/export</resp><resp from="2018-08" to="2022-11">Copyedited and proofread</resp><resp from="2018-08" to="2023-08">Ensured adherence to METS Style Guide</resp><resp from="2023-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2018-08" to="2023-09">Entered corrections for print edition</resp><resp from="2018-08" to="2022-11">Formatted for print edition</resp><resp from="2018-08" to="2023-08">Formatted for XML export</resp><resp from="2018-08" to="2018-11">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Raybin, David</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-11" to="2022-12">Audited documents prior to print/export</resp><resp from="2022-11" to="2022-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2021-12" to="2022-12">Copyedited and proofread</resp><resp from="2021-12" to="2022-12">Ensured adherence to METS Style Guide</resp><resp from="2023-06" to="2023-06">Entered corrections for digital edition</resp><resp from="2023-06" to="2023-06">Entered corrections for print edition</resp><resp from="2021-12" to="2022-12">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Caxton, William</author><author>Cépède, Pierre de la</author><editor>Hudson, Harriet</editor><editor role="translator">Caxton, William</editor><title>William Caxton's Paris and Vienne and Blanchardyn and Eglantine</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/hudson-caxton/blob/main/hudson-caxton-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Hudson-Caxton-18-Blanchardyn-Tnotes"/><div type="text">
+ <p style="heading4">Chapter 1, Rubric</p>
+ <note type="tnote" n="1"><space rend="indent1"/><hi rend="italic">The first chapitre</hi>. The title of the chapter is set off by spacing and marked by an initial ¶; a blank line separates it from the text that follows.</note>
+ <p style="heading4">Chapter 1, Paragraph 1</p>
+ <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">That</hi>. So R. The text begins with a capital letter <hi rend="italic">T</hi> of floriated design, five lines tall. Caxton gave most of the chapter titles a similar, if scaled down, format.</note>
+ <p style="heading4">Chapter 1, Paragraph 3</p>
+ <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">beyonde mesure . . . of his age</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 1, Paragraph 4</p>
+ <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">elder in age</hi>. So R. BN reads <hi rend="italic">les plus sagis</hi> [more wise].</note>
+ <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">Notwythstandyng</hi>. In R, a ¶ sign marks this concluding sentence, emphasizing its proverbial statement.</note>
+ <p style="heading4">Chapter 2, Rubric</p>
+ <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">and of theyre fayttes</hi>. So R. Not in BN. The title of the second chapter is set off by an initial ¶ and a partially blank line.</note>
+ <p style="heading4">Chapter 2, Paragraph 1</p>
+ <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">It</hi>. So R. The initial capital letter is three lines tall and modestly embellished.</note>
+ <p style="heading4">Chapter 2, Paragraph 2</p>
+ <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">and of Achilles</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 2, Paragraph 3</p>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">and blasure</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">longe taryeng</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 3, Rubric</p>
+ <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">The thirde chapitre</hi>. So R. The third chapter’s title is marked with a ¶ and set off by blank lines before and after.</note>
+ <p style="heading4">Chapter 3, Paragraph 1</p>
+ <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">Blanchardyn</hi>. So R. The initial letter is two lines tall. All of the following chapters begin with a similar large plain capital letter. These are not noted below.</note>
+ <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">where he was becomen</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 4, Rubric</p>
+ <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">The fourth chapitre conteyneth . . . made for hym</hi>. So R. Not in BN. In R, the title of the fourth chapter is not separate from the text that precedes it, though it is marked by a ¶ sign.</note>
+ <p style="heading4">Chapter 4, Paragraph 1</p>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">After</hi>. The initial <hi rend="italic">A</hi>, located at the top of the folio, is two lines tall. </note>
+ <p style="heading4">Chapter 5, Paragraph 2</p>
+ <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">alyght from his courser</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">and prayed hym</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">and </hi><hi rend="italic">that . . . lady unto hym</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 5, Paragraph 3</p>
+ <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">and his good swerde y-girded</hi>. So R. BN: <hi rend="italic">sailly sur son destrier sans quelque avantage </hi><hi rend="italic">prendre</hi> [leapt on his war horse without taking any (unfair) advantage].</note>
+ <p style="heading4">Chapter 7, Paragraph 1</p>
+ <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">or haste</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 7, Paragraph 4</p>
+ <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">our herte </hi><hi rend="italic">. . . drawyng to the perfection</hi>. So R. BN: <hi rend="italic">notre cuer qui est </hi><hi rend="italic">imparti</hi> [our heart which is indivisible].</note>
+ <p style="heading4">Chapter 7, Paragraph 5</p>
+ <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">or wythout ceasse</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 8, Paragraph 1</p>
+ <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">that are wonte to growe in </hi><hi rend="italic">wodes</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 8, Paragraph 2</p>
+ <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">fery</hi>. So R. BN reads <hi rend="italic">gue</hi> [ford].</note>
+ <p style="heading4">Chapter 8, Paragraph 3</p>
+ <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">and goodely manere</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 9, Rubric</p>
+ <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">Tormaday</hi>. So R. In the space between the title and the text that follows, a seventeenth-century hand has written in black ink <hi rend="italic">. . . and the counsell he</hi><hi rend="italic"> gave him touching the proude pucelle in amours or proud</hi><hi rend="italic"> lady in love</hi>. Eglantine is introduced in this chapter, and the writer wanted to note this important fact in the title.</note>
+ <p style="heading4">Chapter 9, Paragraph 1</p>
+ <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">After</hi>. So R. A faint bracket in the left margin marks this paragraph.</note>
+ <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">knight</hi><hi rend="italic"> . . .</hi> R lacks a leaf here. The missing passage is supplied in the translation from BN that follows. Kellner includes the passage (pp. 35–36).</note>
+ <p style="heading4">Chapter 9, Paragraph 3</p>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">me semeth</hi><hi rend="italic"> not</hi>. So R. In the right margin, a faint bracket marks the line where the knight of the ferry replies to Blanchardyn.</note>
+ <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">How be it</hi>. So R. A faint bracket here continues into the right margin, and the letter <hi rend="italic">H</hi> in <hi rend="italic">How</hi> has been lightly circled. The sentence it begins relates Blanchardyn’s first stirrings of love for the proud lady.</note>
+ <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">good</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 9, Paragraph 4</p>
+ <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">and welthe</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">or</hi><hi rend="italic"> cusse</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 10, Rubric</p>
+ <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">as foloweth</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 11, Paragraphs 2–3</p>
+ <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">Blanchardyn, seeyng the oure and the poynt</hi><hi rend="italic"> . . . alone wythout eny companye</hi>. So R. These paragraphs are marked by faint brackets in the right margin to indicate the pivotal episode of the kiss.</note>
+ <p style="heading4">Chapter 12, Rubric</p>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">as</hi><hi rend="italic"> herafter foloweth</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 12, Paragraph 3</p>
+ <note type="tnote" n="37"><space rend="indent1"/><hi rend="italic">nor knowen</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="38"><space rend="indent1"/><hi rend="italic">but</hi><hi rend="italic"> that I sholde complayne me</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="39"><space rend="indent1"/><hi rend="italic">and shal deye</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="40"><space rend="indent1"/><hi rend="italic">saynge strongly</hi><hi rend="italic"> ayenst hit</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">and uttre</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="42"><space rend="indent1"/><hi rend="italic">that is now happed to you</hi><hi rend="italic"> of one man</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 13, Rubric</p>
+ <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">havyng styl his thought fast upon here beaulté</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="44"><space rend="indent1"/><hi rend="italic">as herafter foloweth</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 13, Paragraph 1</p>
+ <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">upon her</hi><hi rend="italic"> whyte palfray amblyng</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">hanged</hi>. So R. Not in BN. Caxton’s Eglantine is more brutal than her French counterpart, who only wants to <hi rend="italic">prendre</hi> [seize, apprehend] the offending knight.</note>
+ <p style="heading4">Chapter 13, Paragraphs 2–3</p>
+ <note type="tnote" n="47"><space rend="indent1"/><hi rend="italic">wherof he was glad . . . provostis place of Tourmaday</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 13, Paragraph 3</p>
+ <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">Who</hi><hi rend="italic"> that wol lodge . . . entre this inne</hi>. So BN. R: prose. Edited following modern conventions of verse format for ease of reading. Caxton prints the ballade as prose, offset with a paraph mark and a capital letter similar to those at the beginnings of chapters.</note>
+ <p style="heading4">Chapter 14, Paragraph 4</p>
+ <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">in this maner</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="50"><space rend="indent1"/><hi rend="italic">to</hi><hi rend="italic"> your plesure and behouffe</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">wherof</hi><hi rend="italic"> the provost thanked hym gretly</hi>. This is the last line on the folio. Beneath it an early owner has described his family’s coat of arms:<lg><l><hi rend="italic">John Dewe of Chesterton</hi><hi rend="italic"> ownethe me Anno domini 1500</hi></l><l><hi rend="italic">md, that I found wrytten</hi><hi rend="italic"> in an old booke, that (Rich?)ard</hi></l><l><hi rend="italic">Dewe my predecessor</hi><hi rend="italic"> of the halle of Chesterton, in the</hi></l><l><hi rend="italic">reigne of Richard</hi><hi rend="italic"> the second, gott in the feild in Ireland</hi></l><l><hi rend="italic">am (arms</hi><hi rend="italic">) aunciente red with three barres yellowe therein</hi></l><l><hi rend="italic">a yellowe castell</hi><hi rend="italic"> in a blewe feild hee(?) was then and . . .</hi></l></lg></note>
+ <p style="tnote-noindent"><space rend="indent1"/>The note is written in brown ink. The remainder has been trimmed off, perhaps when the pages were rebound. A John Dew received his B.A. from Cambridge in 1484–1485 and was a fellow of Gonville Hall there from 1488 to 1500. Chesterton is a neighborhood in modern Cambridge. See the <ref target="insert-internal-link" type="internal">Introduction to this romance, pp. 147–48,</ref> for discussion of the book’s owners.</p>
+ <p style="heading4">Chapter 15, Paragraph 1</p>
+ <note type="tnote" n="52"><space rend="indent1"/><hi rend="italic">his evyll wylle</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">behavoure and</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 15, Paragraph 3</p>
+ <note type="tnote" n="54"><space rend="indent1"/><hi rend="italic">and goode wylle</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 16, Paragraph 1</p>
+ <note type="tnote" n="55"><space rend="indent1"/><hi rend="italic">In </hi><hi rend="italic">suche</hi>. So R. Remains of an annotation in brown ink appear in the gutter of the left margin.</note>
+ <p style="heading4">Chapter 16, Paragraph 2</p>
+ <note type="tnote" n="56"><space rend="indent1"/><hi rend="italic">that so fyers was ayenst the god </hi><hi rend="italic">of love</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 17, Paragraph 1</p>
+ <note type="tnote" n="57"><space rend="indent1"/><hi rend="italic">soverayne desyre and</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 18, Rubric</p>
+ <note type="tnote" n="58"><space rend="indent1"/><hi rend="italic">wyth a myghty power of folke</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 19, Rubric</p>
+ <note type="tnote" n="59"><space rend="indent1"/><hi rend="italic">all </hi><hi rend="italic">of whyte sylke</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 20, Paragraph 3</p>
+ <note type="tnote" n="60"><space rend="indent1"/><hi rend="italic">affrayed</hi>. So R. Remains of an annotation appear in the gutter of the left margin.</note>
+ <p style="heading4">Chapter 20, Paragraph 4</p>
+ <note type="tnote" n="61"><space rend="indent1"/><hi rend="italic">appiered</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="62"><space rend="indent1"/><hi rend="italic">swerde</hi>. R: <hi rend="italicstrikethrough">swerde</hi> <hi rend="italic">speare</hi>. The word <hi rend="italic">swerde</hi> has been crossed out and the annotator has written <hi rend="italic">speare</hi> in brown ink in the right margin. The name <hi rend="italic">John New</hi> is written below in a similar hand. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <note type="tnote" n="63"><space rend="indent1"/><hi rend="italic">of proesse</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 20, Paragraph 7</p>
+ <note type="tnote" n="64"><space rend="indent1"/><hi rend="italic">in her herte</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="65"><space rend="indent1"/><hi rend="italic">Yf ye wolde</hi>. R reads <hi rend="italic">Yf </hi><hi rend="italic">yf</hi>. An annotator corrected the second <hi rend="italic">yf</hi> by writing an <hi rend="italic">e</hi> over the <hi rend="italic">f</hi>. A smudged cross has been written in brown ink on the right margin. It appears beside the important passage in which Eglantine determines to take Blanchardyn as her lover.</note>
+ <note type="tnote" n="66"><space rend="indent1"/><hi rend="italic">noo man infydele</hi>. So R. Caxton omitted a detail from his source: that Eglantine will wed no infidel having <hi rend="italic">ydoles dyaboliques</hi> [diabolical idols].</note>
+ <p style="heading4">Chapter 20, Paragraph 9</p>
+ <note type="tnote" n="67"><space rend="indent1"/><hi rend="italic">or wythdrawe his men</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 20, Paragraph 10</p>
+ <note type="tnote" n="68"><space rend="indent1"/><hi rend="italic">lenyng upon</hi>. So R. A black ink cross is written in the right margin.</note>
+ <note type="tnote" n="69"><space rend="indent1"/><hi rend="italic">specyall</hi>. So R. This word is underlined and the annotator’s hand has written <hi rend="italic">frend</hi> in the margin, in brown ink.</note>
+ <note type="tnote" n="70"><space rend="indent1"/><hi rend="italic">nor how to mayntene herself</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="71"><space rend="indent1"/><hi rend="italic">ne take no maner of reste</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 21, Rubric</p>
+ <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">as it foloweth</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 21, Paragraph 2</p>
+ <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">hoste</hi>. So R. The word is underlined, and the annotator has written <hi rend="italic">guest</hi> by it in the margin, in brown ink. This is not a correction, but a definition. <hi rend="italic">MED</hi> defines <hi rend="italic">host</hi> as an invited guest or a paying guest (<hi rend="italic">host</hi> (n.2), senses 2a, b).</note>
+ <p style="heading4">Chapter 21, Paragraph 3</p>
+ <note type="tnote" n="74"><space rend="indent1"/><hi rend="italic">feyr</hi><hi rend="italic">é</hi>. So R. The letter <hi rend="italic">y</hi> is written in brown ink at the end of this word.</note>
+ <p style="heading4">Chapter 22, Rubric</p>
+ <note type="tnote" n="75"><space rend="indent1"/><hi rend="italic">the yonge knyght, as it folowed here</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 22, Paragraph 1</p>
+ <note type="tnote" n="76"><space rend="indent1"/><hi rend="italic">fayre shewes </hi><hi rend="italic">of their eyen whiche wauntonly</hi>. So R. BN: <hi rend="italic">semblant et</hi><hi rend="italic"> regars quelles font</hi> [expressions and glances that they made].</note>
+ <p style="heading4">Chapter 22, Paragraph 2</p>
+ <note type="tnote" n="77"><space rend="indent1"/><hi rend="italic">and in all manere norreture </hi><hi rend="italic">right parfyt</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 23, Rubric</p>
+ <note type="tnote" n="78"><space rend="indent1"/><hi rend="italic">twenty third</hi>. R: <hi rend="italic">xxiii</hi><hi rend="italicstrikethrough">i</hi>. The last <hi rend="italic">i</hi> is crossed out and the annotator has written <hi rend="italic">chap~.23d</hi> in the margin, in brown ink.</note>
+ <p style="heading4">Chapter 23, Paragraph 1</p>
+ <note type="tnote" n="79"><space rend="indent1"/><hi rend="italic">hyghe</hi>. So R. A partial signature in brown ink, perhaps <hi rend="italic">Rich . . . Furm . . .</hi>, is visible at the edge of the right margin.</note>
+ <p style="heading4">Chapter 23, Paragraphs 1–2</p>
+ <note type="tnote" n="80"><space rend="indent1"/><hi rend="italic">After the humble leve . . . “I thanke you,” sayde Blanchardyn</hi>. So R. Faint brackets set off these paragraphs an important passage in which Blanchardyn rejects the Provost’s suggestion that Eglantine is in love with him.</note>
+ <p style="heading4">Chapter 23, Paragraph 2</p>
+ <note type="tnote" n="81"><space rend="indent1"/><hi rend="italic">and behourdyng</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 23, Paragraph 4</p>
+ <note type="tnote" n="82"><space rend="indent1"/><hi rend="italic">and taken</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="83"><space rend="indent1"/><hi rend="italic">as longeth tyl </hi><hi rend="italic">a knyght to doo</hi>. So R. Not in BN. A partial signature, <hi rend="italic">Mary L.</hi>, is written in dark brown ink along the lower edge of the page; the bottoms of the letters have been trimmed off.</note>
+ <note type="tnote" n="84"><space rend="indent1"/><hi rend="italic">promette</hi>. So R. An annotator emended the spelling, writing in <hi rend="italic">ss</hi> in brown ink.</note>
+ <p style="heading4">Chapter 23, Paragraph 6</p>
+ <note type="tnote" n="85"><space rend="indent1"/><hi rend="italic">god of love</hi>. R: <hi rend="italic">of</hi><hi rend="italic"> god love</hi>. Emended to <hi rend="italic">god of love</hi> for sense.</note>
+ <p style="heading4">Chapter 24, Rubric</p>
+ <note type="tnote" n="86"><space rend="indent1"/><hi rend="italic">twenty fourth</hi>. R: <hi rend="italic">xxiiii</hi><hi rend="italicstrikethrough">i</hi>. The last <hi rend="italic">i</hi> is crossed out and the annotator has written <hi rend="italic">chap~ </hi><hi rend="italic">24th</hi> in the left margin, in brown ink.</note>
+ <p style="heading4">Chapter 24, Paragraphs 2–3</p>
+ <note type="tnote" n="87"><space rend="indent1"/><hi rend="italic">After the gracyouse leve of the lady</hi><hi rend="italic"> . . . proceded to hym of veraye noblenes</hi>. So R. Faint brackets in the side margin mark the beginning and end of this important passage, which narrate the lover’s exchange of gifts and Eglantine’s first public acknowledgment of her favor, followed by the appointment of Blanchardyn as seneschal.</note>
+ <p style="heading4">Chapter 24, Paragraph 7</p>
+ <note type="tnote" n="88"><space rend="indent1"/><hi rend="italic">speciall</hi>. So R. This word is underlined, and the annotator has written <hi rend="italic">frend</hi> in the margin in brown ink.</note>
+ <p style="heading4">Chapter 24, Paragraph 9</p>
+ <note type="tnote" n="89"><space rend="indent1"/><hi rend="italic">and cursed man</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 24, Paragraph 10</p>
+ <note type="tnote" n="90"><space rend="indent1"/><hi rend="italic">harde</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 25, Paragraph 1</p>
+ <note type="tnote" n="91"><space rend="indent1"/><hi rend="italic">Thus after . . . lost his lyff</hi>. So R. The first two paragraphs of this chapter are set off by faint marginal brackets. The passage narrates Beatrice’s plea to Alymodes and his sparing of Blanchardyn’s life.</note>
+ <p style="heading4">Chapter 25, Paragraph 2</p>
+ <note type="tnote" n="92"><space rend="indent1"/><hi rend="italic">for whom ye have caused your humble supplycacion</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="93"><space rend="indent1"/><hi rend="italic">So</hi>. So R. This word is preceded by a space and a paraph mark, creating a visual break on the page. Here a reader has inserted a marginal bracket before the conclusion of Alymodes’s address to Beatrice.</note>
+ <p style="heading4">Chapter 25, Paragraph 3</p>
+ <note type="tnote" n="94"><space rend="indent1"/><hi rend="italic">for he</hi><hi rend="italic"> whom God wolde preserve can not peryshe</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 26, Paragraph 1</p>
+ <note type="tnote" n="95"><space rend="indent1"/><hi rend="italic">for to have</hi><hi rend="italic"> wrake upon hym</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 26, Paragraph 3</p>
+ <note type="tnote" n="96"><space rend="indent1"/><hi rend="italic">wyshyng full often . . . above all other</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 27, Paragraph 2</p>
+ <note type="tnote" n="97"><space rend="indent1"/><hi rend="italic">The</hi><hi rend="italic"> kynge . . . provysion were had</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 28, Rubric</p>
+ <note type="tnote" n="98"><space rend="indent1"/><hi rend="italic">How</hi>. So R. The annotator has written <hi rend="italic">Chap~ 28th</hi> in the left margin by this unnumbered title.</note>
+ <p style="heading4">Chapter 28, Paragraph 3</p>
+ <note type="tnote" n="99"><space rend="indent1"/><hi rend="italic">Vassall</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="100"><space rend="indent1"/><hi rend="italic">and sette</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 29, Paragraph 1</p>
+ <note type="tnote" n="101"><space rend="indent1"/><hi rend="italic">hylles and dales here and there</hi>. So R. BN: <hi rend="italic">les champs dont les maistres gisoyent mors </hi><hi rend="italic">entre les pies sur les champs</hi> [the fields where their masters lie dead between their feet on the ground]. Caxton omits the detail about the horses’ riders, though the formula appears in several other battle scenes.</note>
+ <p style="heading4">Chapter 29, Paragraph 2</p>
+ <note type="tnote" n="102"><space rend="indent1"/><hi rend="italic">twenty four</hi>. So R. BN: <hi rend="italic">dix</hi> [ten].</note>
+ <p style="heading4">Chapter 29, Paragraph 4</p>
+ <note type="tnote" n="103"><space rend="indent1"/><hi rend="italic">bycause that they sholde be more sure </hi><hi rend="italic">of hym</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 29, Paragraph 5</p>
+ <note type="tnote" n="104"><space rend="indent1"/><hi rend="italic">under thy swerde</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="105"><space rend="indent1"/><hi rend="italic">royalme</hi>. So R. BN: <hi rend="italic">de mon people deffendeur. De veufes </hi><hi rend="italic">et orphenins secure garde et droiture</hi> [defender of my people. Of old people and orphans, safe keeping and justice].</note>
+ <note type="tnote" n="106"><space rend="indent1"/><hi rend="italic">to </hi><hi rend="italic">be understande</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="107"><space rend="indent1"/><hi rend="italic">descended of</hi>. So R. BN: <hi rend="italic">sans nulle doubte et as bien averi fie </hi><hi rend="italic">tes paroles</hi> [without any doubt and as your speech well attests].</note>
+ <p style="heading4">Chapter 30, Paragraph 4</p>
+ <note type="tnote" n="108"><space rend="indent1"/><hi rend="italic">Daryus, that of his </hi><hi rend="italic">beynge ther was soone advertysed</hi>. So R. BN: <hi rend="italic">Daire et </hi><hi rend="italic">toute sa navire y vint arriver et prendre port par </hi><hi rend="italic">ung bien matin. Il fist jette les ancres puis saillirent </hi><hi rend="italic">hors tous ensamble moult joyeux de ce que hors de </hi><hi rend="italic">la tourmente de la mer estoient eschappez. Mais pas bien </hi><hi rend="italic">ne scavoient en quel pays ils estoient arrivez</hi>. [Darius and all his navy arrived there and made port in a fair morning. He made the anchors to be dropped then they rushed out all together very joyous that they were escaped from tempest of the sea. But they did not know in what country they had arrived.]</note>
+ <p style="heading4">Chapter 30, Paragraph 6</p>
+ <note type="tnote" n="109"><space rend="indent1"/><hi rend="italic">for the love . . . myserably has loste</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 31, Rubric</p>
+ <note type="tnote" n="110"><space rend="indent1"/><hi rend="italic">for love of . . . </hi><hi rend="italic">them there</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 31, Paragraph 2</p>
+ <note type="tnote" n="111"><space rend="indent1"/><hi rend="italic">The maronners bygan . . . wyth grete joye</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 32, Paragraph 4</p>
+ <note type="tnote" n="112"><space rend="indent1"/><hi rend="italic">had</hi>. So R. The sense seems to be <hi rend="italic">had</hi> <hi rend="bolditalic">not</hi> <hi rend="italic">som</hi>. K emends.</note>
+ <p style="heading4">Chapter 32, Paragraph 5</p>
+ <note type="tnote" n="113"><space rend="indent1"/><hi rend="italic">for or ever . . . oute</hi><hi rend="italic"> of syght</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="114"><space rend="indent1"/><hi rend="italic">And the provost</hi><hi rend="italic"> . . . costes of Nourthweghe</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="115"><space rend="indent1"/><hi rend="italic">where he</hi><hi rend="italic"> arryved . . . it is sayd</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="116"><space rend="indent1"/><hi rend="italic">the</hi><hi rend="italic"> goode yonge knyght</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="117"><space rend="indent1"/><hi rend="italic">wyth </hi><hi rend="italic">Sadoyne</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 33, Rubric</p>
+ <note type="tnote" n="118"><space rend="indent1"/><hi rend="italic">wythin a gardyne</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="119"><space rend="indent1"/><hi rend="italic">Sadoyne</hi>. So R. BN includes the phrase <hi rend="italic">en promettant que de tout </hi><hi rend="italic">son povoir lui aideroit</hi> [promising that he will help him with all his power].</note>
+ <p style="heading4">Chapter 33, Paragraph 1</p>
+ <note type="tnote" n="120"><space rend="indent1"/><hi rend="italic">without </hi><hi rend="italic">ceasse</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 33, Paragraph 2</p>
+ <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">from her . . . my penseful herte</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 36, Paragraph 1</p>
+ <note type="tnote" n="122"><space rend="indent1"/><hi rend="italic">that at my grete </hi><hi rend="italic">nede . . . I have therof</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 36, Paragraph 3</p>
+ <note type="tnote" n="123"><space rend="indent1"/><hi rend="italic">maystres and that the</hi>. So R. Faintly written in the right margin, a large arrow points to the end of this line. In the adjacent passage, Eglantine sees Blanchardyn’s navy overtaken by a storm and swept from Tourmaday.</note>
+ <p style="heading4">Chapter 36, Paragraph 4</p>
+ <note type="tnote" n="124"><space rend="indent1"/><hi rend="italic">his feythful </hi><hi rend="italic">felawe</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 37, Paragraph 1</p>
+ <note type="tnote" n="125"><space rend="indent1"/><hi rend="italic">maumetys</hi>. So R. BN : <hi rend="italic">decepuables et dampnables ydolles</hi> [deceiving and damnable idols].</note>
+ <p style="heading4">Chapter 37, Paragraph 5</p>
+ <note type="tnote" n="126"><space rend="indent1"/><hi rend="italic">and all </hi><hi rend="italic">armed fro top to too</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 38, Rubric</p>
+ <note type="tnote" n="127"><space rend="indent1"/><hi rend="italic">And the fayr Beatryx was taken </hi><hi rend="italic">to mercy</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 39, Paragraph 3</p>
+ <note type="tnote" n="128"><space rend="indent1"/><hi rend="italic">and myght kepe his counteynaunce nor behave hymself</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="129"><space rend="indent1"/><hi rend="italic">harde and</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="130"><space rend="indent1"/><hi rend="italic">shortyng oure dayes . . . ye may see</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 39, Paragraph 5</p>
+ <note type="tnote" n="131"><space rend="indent1"/><hi rend="italic">or do </hi><hi rend="italic">to be rehersed</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="132"><space rend="indent1"/><hi rend="italic">prysoner</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 39, Paragraph 6</p>
+ <note type="tnote" n="133"><space rend="indent1"/><hi rend="italic">no</hi>. In R, a bracket in brown ink marks the end of this line. In the passage that follows, the king of Frisia relates the death of Blanchardyn’s mother.</note>
+ <p style="heading4">Chapter 40, Paragraph 2</p>
+ <note type="tnote" n="134"><space rend="indent1"/><hi rend="italic">and his folke within her cyté</hi><hi rend="italic"> of Tourmaday</hi>. So R. BN: <hi rend="italic">le quel par sa cruaulte</hi><hi rend="italic"> est cause que le royaulme de Frize avoit este degaste</hi><hi rend="italic"> par Daire son filz, dont le bon roy pere de</hi><hi rend="italic"> Blanchandin avoit grant desir de sen vengier, tres convoitant de</hi><hi rend="italic"> soy trouver en lieu ou il lui peust porter dommage</hi><hi rend="italic"> car il estoit encorres de bon eaige pour porter et</hi><hi rend="italic"> excercicer les armes</hi> [which by his cruelty is the cause that the realm of Frise had been laid waste by Darius his son, on which the good king father of Blanchardin had great desire to take revenge, longed to find himself in a place where he could cause him harm, for he was still of a good age to bear and use arms].</note>
+ <p style="heading4">Chapter 41, Paragraph 4</p>
+ <note type="tnote" n="135"><space rend="indent1"/><hi rend="italic">chaunged</hi>. So R. BN: <hi rend="italic">couchid</hi>. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <p style="heading4">Chapter 41, Paragraph 6</p>
+ <note type="tnote" n="136"><space rend="indent1"/><hi rend="italic">yf God woll</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 42, Rubric</p>
+ <note type="tnote" n="137"><space rend="indent1"/><hi rend="italic">Here foloweth . . . in hitself and</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 42, Paragraph 1</p>
+ <note type="tnote" n="138"><space rend="indent1"/><hi rend="italic">so truly and benyngly</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="139"><space rend="indent1"/><hi rend="italic">their </hi><hi rend="italic">enmyes shal knowe . . . of the towne</hi>. So R. Not in BN. Caxton considerably embellishes the ferocity of the Provost’s reply. BN reads only <hi rend="italic">que de nul tort nen seront </hi><hi rend="italic">reprins</hi> [will not recover from the harm (done to them)].</note>
+ <p style="heading4">Chapter 42, Paragraph 4</p>
+ <note type="tnote" n="140"><space rend="indent1"/><hi rend="italic">that wythin the towne was </hi><hi rend="italic">thus grete</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 43, Paragraph 2</p>
+ <note type="tnote" n="141"><space rend="indent1"/><hi rend="italic">for to have theym . . . entre in them</hi>. So R. BN: <hi rend="italic">pour ce que la endroit ou il estoit</hi><hi rend="italic"> logie ny avoit quelque perilage de la mer si la</hi><hi rend="italic"> fist venir aupres de lui ancre pour ce que le</hi><hi rend="italic"> temps estoit douls et la mer quoyt il le fist</hi><hi rend="italic"> affin que . . .</hi> [because the place where he was quartered had no peril of the sea, he made them come there near to him to anchor because the weather was calm and the sea quiet, he made it so that . . .].</note>
+ <p style="heading4">Chapter 43, Paragraphs 2–3</p>
+ <note type="tnote" n="142"><space rend="indent1"/><hi rend="italic">Thus passed Kynge Alymodes </hi><hi rend="italic">the nyght . . . nother frendes nor enmyes</hi>. So R. Marks between the lines of text set off this passage beginning the extended account of the final battle between Blanchardyn’s army and the forces of Alymodes; similar marks appear again at the end of the following paragraph.</note>
+ <p style="heading4">Chapter 43, Paragraph 5</p>
+ <note type="tnote" n="143"><space rend="indent1"/><hi rend="italic">a duke</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 43, Paragraph 6</p>
+ <note type="tnote" n="144"><space rend="indent1"/><hi rend="italic">They dyd . . . excellent proues</hi>. So R. In BN, this passage relating the retreat of Alymodes’s forces and ensuing battle follows the account of the king of Frisia and Sadoyne’s combat with Corburant which appears in paragraph 8.</note>
+ <note type="tnote" n="145"><space rend="indent1"/><hi rend="italic">They began . . . toward their enmyes</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 43, Paragraph 10</p>
+ <note type="tnote" n="146"><space rend="indent1"/><hi rend="italic">his felawe</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="147"><space rend="indent1"/><hi rend="italic">had taken . . . body of </hi><hi rend="italic">hym</hi>. So R. BN: <hi rend="italic">eust occis</hi> [had killed].</note>
+ <p style="heading4">Chapter 43, Paragraph 11</p>
+ <note type="tnote" n="148"><space rend="indent1"/><hi rend="italic">They two drewe themself out</hi>. So R. Brackets in the outside margins mark this paragraph which recounts the single combat, on horseback, of Blanchardyn and Alymodes.</note>
+ <note type="tnote" n="149"><space rend="indent1"/><hi rend="italic">their </hi><hi rend="italic">armures that were of fyn stele</hi>. So R. BN: <hi rend="italic">lachier </hi><hi rend="italic">qui en leurs heaulmes estoit</hi> [laces which were on their helmets].</note>
+ <note type="tnote" n="150"><space rend="indent1"/><hi rend="italic">yf the messenger . . . of fyn golde</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 44, Paragraph 3</p>
+ <note type="tnote" n="151"><space rend="indent1"/><hi rend="italic">in grete habondaunce</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 44, Paragraph 4</p>
+ <note type="tnote" n="152"><space rend="indent1"/><hi rend="italic">I saye this</hi>. In R, this sentence and the three following it are preceded by ¶s. Caxton thus gives visual emphasis to the lesson. See the <ref target="insert-internal-link" type="internal">Explanatory Note</ref> for additional commentary.</note>
+ <p style="heading4">Chapter 45, Paragraph 2</p>
+ <note type="tnote" n="153"><space rend="indent1"/><hi rend="italic">wyth hym</hi>. So R. An early hand has written <hi rend="italic">Blanchardyn</hi> at the bottom left corner of the page, in brown ink.</note>
+ <p style="heading4">Chapter 46, Paragraph 1</p>
+ <note type="tnote" n="154"><space rend="indent1"/><hi rend="italic">and so haunsed in worship</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="155"><space rend="indent1"/><hi rend="italic">whiche myght wel . . . than he was</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="156"><space rend="indent1"/><hi rend="italic">that shall sone overcome Blanchardyn</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 47, Rubric</p>
+ <note type="tnote" n="157"><space rend="indent1"/><hi rend="italic">as ye </hi><hi rend="italic">shal here</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 47, Paragraph 3</p>
+ <note type="tnote" n="158"><space rend="indent1"/><hi rend="italic">Eglantyne, otherwyse callyd the proude pucell in amours</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 47, Paragraph 4</p>
+ <note type="tnote" n="159"><space rend="indent1"/><hi rend="italic">tarye styll oure penne to wryte</hi>. So R. BN: <hi rend="italic">vous </hi><hi rend="italic">lairons a parler de ceulx</hi> [we leave you to speak of those . . .].</note>
+ <note type="tnote" n="160"><space rend="indent1"/><hi rend="italic">wryte</hi>. So R. BN: <hi rend="italic">parlerons</hi> [we will speak].</note>
+ <p style="heading4">Chapter 48, Paragraph 1</p>
+ <note type="tnote" n="161"><space rend="indent1"/><hi rend="italic">wyth bothe her armes</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 48, Paragraph 6</p>
+ <note type="tnote" n="162"><space rend="indent1"/><hi rend="italic">that ye geve upon your false goddes</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="163"><space rend="indent1"/><hi rend="italic">one onli God</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 48, Paragraph 8</p>
+ <note type="tnote" n="164"><space rend="indent1"/><hi rend="italic">goddes and</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 48, Paragraph 9</p>
+ <note type="tnote" n="165"><space rend="indent1"/><hi rend="italic">for </hi><hi rend="italic">the deth . . . be ther slayne</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 48, Paragraphs 6–9</p>
+ <note type="tnote" n="166"><space rend="indent1"/><hi rend="italic">The </hi><hi rend="italic">fayre Beatryx, heryng her fader speke . . . that Sadoyne sholde be</hi><hi rend="italic"> beten</hi>. So R. Faint brackets in the side margin mark the beginning and end of this passage recounting the heated exchange between Alymodes and Beatrix as she pleads with him to spare Sadoyne and accept Christianity.</note>
+ <p style="heading4">Chapter 48, Paragraph 10</p>
+ <note type="tnote" n="167"><space rend="indent1"/><hi rend="italic">bytterly</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="168"><space rend="indent1"/><hi rend="italic">in this wyse</hi>. So R. Not in BN</note>
+ <note type="tnote" n="169"><space rend="indent1"/><hi rend="italic">that </hi><hi rend="italic">he most nowe suffre</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 49, Paragraph 2</p>
+ <note type="tnote" n="170"><space rend="indent1"/><hi rend="italic">whiche is full goode and deffensable</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 49, Paragraph 3</p>
+ <note type="tnote" n="171"><space rend="indent1"/><hi rend="italic">my lady</hi>. So R. BN reads <hi rend="italic">sa dame</hi> [his lady].</note>
+ <p style="heading4">Chapter 50, Paragraph 2</p>
+ <note type="tnote" n="172"><space rend="indent1"/><hi rend="italic">parfit</hi>. R: <hi rend="italic">parft</hi>. I follow Kellner’s emendation.</note>
+ <p style="heading4">Chapter 51, Paragraph 2</p>
+ <note type="tnote" n="173"><space rend="indent1"/><hi rend="italic">and thankes</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="174"><space rend="indent1"/><hi rend="italic">tyll eche other</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="175"><space rend="indent1"/><hi rend="italic">and colled</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 51, Paragraph 3</p>
+ <note type="tnote" n="176"><space rend="indent1"/><hi rend="italic">from the bataylle</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 51, Paragraph 5</p>
+ <note type="tnote" n="177"><space rend="indent1"/><hi rend="italic">and subdewed</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 51, Paragraph 6</p>
+ <note type="tnote" n="178"><space rend="indent1"/><hi rend="italic">and unyon</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="179"><space rend="indent1"/><hi rend="italic">venymouse malyce of the false</hi><hi rend="italic"> traytoure</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="180"><space rend="indent1"/><hi rend="italic">a grete trayson</hi>. So R. BN: <hi rend="italic">que par Subien avoit este procedee alencontre de</hi><hi rend="italic"> sa dame</hi> [he knew not that Subyon had been advancing against his lady].</note>
+ <note type="tnote" n="181"><space rend="indent1"/><hi rend="italic">the proude pucelle in amours</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 52, Paragraph 1</p>
+ <note type="tnote" n="182"><space rend="indent1"/><hi rend="italic">for </hi><hi rend="italic">to goo rescue hys felawe Sadoyne</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="183"><space rend="indent1"/><hi rend="italic">and telle</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 52, Paragraph 3</p>
+ <note type="tnote" n="184"><space rend="indent1"/><hi rend="italic">and shewed</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 52, Paragraph 7</p>
+ <note type="tnote" n="185"><space rend="indent1"/><hi rend="italic">of theym</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="186"><space rend="indent1"/><hi rend="italic">and tolde</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 52, Paragraph 8</p>
+ <note type="tnote" n="187"><space rend="indent1"/><hi rend="italic">and ootes for his horses</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Rubric</p>
+ <note type="tnote" n="188"><space rend="indent1"/><hi rend="italic">and what</hi><hi rend="italic"> folowed after</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Paragraph 1</p>
+ <note type="tnote" n="189"><space rend="indent1"/><hi rend="italic">fol. 95r</hi>. Brown stains on this folio suggest that the pages missing from the end of R were damaged and discarded in rebinding. Similar stains on fol. 4, the last original page of the Table of Chapters, may explain why the leaf was added there when the volume was restored.</note>
+ <note type="tnote" n="190"><space rend="indent1"/><hi rend="italic">of theym</hi>. So R. Not in BN.</note>
+ <note type="tnote" n="191"><space rend="indent1"/><hi rend="italic">to </hi><hi rend="italic">passe by them</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Paragraph 2</p>
+ <note type="tnote" n="192"><space rend="indent1"/><hi rend="italic">Subyon</hi>. R: <hi rend="italic">Sadoyne</hi>, emended; in the context, a mistake.</note>
+ <p style="heading4">Chapter 53, Paragraph 3</p>
+ <note type="tnote" n="193"><space rend="indent1"/><hi rend="italic">He was well</hi><hi rend="italic"> mounted</hi>. So R. A faint bracket in the right margin marks the passage recounting the flight of Subyon into the forest following the defeat of his troops.</note>
+ <p style="heading4">Chapter 53, Paragraph 4</p>
+ <note type="tnote" n="194"><space rend="indent1"/><hi rend="italic">there wythin theyr caves</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Paragraph 5</p>
+ <note type="tnote" n="195"><space rend="indent1"/><hi rend="italic">by syx myles</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Paragraph 7</p>
+ <note type="tnote" n="196"><space rend="indent1"/><hi rend="italic">Subyon</hi><hi rend="italic"> was</hi>. So R. BN: <hi rend="italic">ne la neust este trouve se</hi><hi rend="italic"> par adventure neust este Silvain leur maistre qui leans se</hi><hi rend="italic"> cuidoit bouter</hi> [there (Subyon) would not have been found, if, by chance, Silvain their master had not thought to hide himself in that place].</note>
+ <note type="tnote" n="197"><space rend="indent1"/><hi rend="italic">that he had opened . . . there wythinne</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 53, Paragraph 8</p>
+ <note type="tnote" n="198"><space rend="indent1"/><hi rend="italic">and of the barons . . . castell of Castelforde</hi>. So R. Not in BN.</note>
+ <p style="heading4">Chapter 54, Paragraph 1</p>
+ <note type="tnote" n="199"><space rend="indent1"/><hi rend="italic">Castelforde . . .</hi> R is incomplete for the last leaves are lacking. I have supplied the missing part of the narrative with a translation of BN. Kellner includes the passage from that manuscript (pp. 206–19).</note>
+ </div></body></text></TEI>

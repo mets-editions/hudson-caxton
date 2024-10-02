@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Hudson-Caxton-10-Blanchardyn-Dedication-Prose-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Caxton's Dedication</title><author>Caxton, William</author><editor>Hudson, Harriet</editor><editor role="translator">Caxton, William</editor><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-12" to="2024-02">Audited documents prior to print/export</resp><resp from="2018-08" to="2022-11">Copyedited and proofread</resp><resp from="2018-08" to="2023-08">Ensured adherence to METS Style Guide</resp><resp from="2023-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2018-08" to="2023-09">Entered corrections for print edition</resp><resp from="2018-08" to="2022-11">Formatted for print edition</resp><resp from="2018-08" to="2023-08">Formatted for XML export</resp><resp from="2018-08" to="2018-11">Reviewed transcription of base manuscript or early print witness</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed and suggested glosses</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed and suggested glosses</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2023-12" to="2024-01">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Raybin, David</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed and suggested glosses</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-11" to="2022-12">Audited documents prior to print/export</resp><resp>Collated and entered corrections</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2021-12" to="2022-12">Copyedited and proofread</resp><resp from="2021-12" to="2022-12">Ensured adherence to METS Style Guide</resp><resp from="2023-06" to="2023-06">Entered corrections for digital edition</resp><resp from="2023-06" to="2023-06">Entered corrections for print edition</resp><resp from="2021-12" to="2022-03">Reviewed and suggested glosses</resp><resp from="2021-12" to="2022-12">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Caxton, William</author><author>Cépède, Pierre de la</author><editor>Hudson, Harriet</editor><editor role="translator">Caxton, William</editor><title>William Caxton's Paris and Vienne and Blanchardyn and Eglantine</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/hudson-caxton/blob/main/hudson-caxton-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="enm">English, Middle (1100-1500)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Hudson-Caxton-10-Blanchardyn-Dedication-Prose"/><div type="text">
+ <ab><milestone n="1" unit="prose-textblock"/><note type="tnote-indicator" n="1">T</note> <locus type="foliation">[fol. 1v]</locus> Unto<note type="tnote-indicator" n="2">T</note>  the right noble puyssaunt<note target="#1" type="footnotelink">G</note>  and excellent pryncesse my redoubted<note target="#2" type="footnotelink">G</note>  lady, my lady <persName>Margarete</persName> duchesse of <placeName>Somercete</placeName>,<note target="#3" type="footnotelink">G</note>  moder unto our naturel and soverayn lord and most Crysten kynge <persName>Henry the seventh</persName>, by the grace of <persName>God</persName>, kyng of <placeName>Englonde</placeName> and of <placeName>Fraunce</placeName>, lord of <placeName>Yrelonde</placeName>, et cetera., I <persName>Wyllyam Caxton</persName>,<note type="tnote-indicator" n="3">T</note>  his most indygne<note target="#4" type="footnotelink">G</note>  humble subgette and lytil servaunt, presente this lytyl book unto the noble grace of my sayd lady. Whiche boke I late receyved in Frenshe from her good grace<note type="enote-indicator" n="1">N</note>  and her commaundement wythalle for to reduce<note target="#5" type="footnotelink">G</note> <note type="enote-indicator" n="2">N</note>  and translate it into our maternal and Englysh tonge. Whiche boke I had longe tofore solde to my sayd lady, and knewe wel that the storye of hit was honeste and joyefull to all vertuouse yong noble gentylmen and wymmen forto rede therein as for their passetyme. For under correction in my judgement, it is as requesyte<note target="#6" type="footnotelink">G</note>  other whyle to rede in auncyent hystoryes<note type="enote-indicator" n="3">N</note>  of noble fayttes<note target="#7" type="footnotelink">G</note>  and valyaunt<note target="#8" type="footnotelink">G</note>  actes of armes and warre which have ben achyeved in olde tyme of many noble prynces, lordes, and knyghtes, as wel for to see and know their walyauntnes<note target="#9" type="footnotelink">G</note>  for to stande in the specyal grace and love of their ladyes. And in like wise for gentyl yonge ladyes and damoysellys for to lerne to be stedfaste and constaunt<note type="enote-indicator" n="4">N</note>  in their parte to theym that they ones have promysed and agreed to, suche as have putte their lyves ofte in jeopardye for to playse theym to stande in grace, as it is to occupye theym and studye overmoche in bokes of contemplacion. Wherfore at the ynstaunce<note target="#10" type="footnotelink">G</note>  and requeste of my sayd lady, whiche I repute<note target="#11" type="footnotelink">G</note>  as for a commaundemente, I have reduced this sayd boke out of Frenshe into our Englysh. Whiche boke specyfyeth of the noble actes and fayttes of warre achyeved by a noble and victorious prynce<note type="tnote-indicator" n="4">T</note>  named <persName>Blanchardin</persName>, sone unto the kynge of <locus type="foliation">[fol. 1v]</locus> <placeName>Fryse</placeName>,<note target="#12" type="footnotelink">G</note> <note type="enote-indicator" n="5">N</note>  for the love of a noble pryncesse callyd <persName>Eglantyne</persName> otherwyse named in Frenshe <foreign xml:lang="frm">lorguylleuse damours</foreign>, whiche is as moche to saye in Englyshe as the proude lady of love, quene of <placeName>Tormaday</placeName>; and of the grete adventures, labours, anguysshes and many other grete dyseases of theym bothe tofore they myghte atteyne<note target="#13" type="footnotelink">G</note>  for to come to the fynall conclusion of their desired love, as alonge by the grace of <persName>God</persName> it shall be shewed in the historye of thys present book.</ab>
+ <ab><milestone n="2" unit="prose-textblock"/>Bysechynge my sayd ladyes bountyuous grace to receyve this lityll boke in gree<note target="#14" type="footnotelink">G</note>  of me, her humble servaunt, and to pardoune me of the rude and comyn Englyshe<note type="enote-indicator" n="6">N</note>  whereas shall be found faulte, for I confesse me not lerned ne knowynge the arte of rethoryk<note type="enote-indicator" n="7">N</note>  ne of suche gaye termes as now be sayd in these dayes and used. But I hope that it shall be understonden of the redars and herers. And that shall suffyse.</ab>
+ <ab><milestone n="3" unit="prose-textblock"/>Besechynge allmyghty <persName>God</persName> to graunte to her moste noble goode grace longe lyffe and the accomplysshement of hir hihe,<note target="#15" type="footnotelink">G</note>  noble, and joyes desires in thys present lyff. And after this short and transytorye lyff, everlastynge lyff in <placeName>heven</placeName>. Amen.<note type="tnote-indicator" n="5">T</note> </ab>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="1"><space rend="indent1"/><gloss>powerful</gloss></note>
+ 
+ 
+ <note type="footnote" n="2"><space rend="indent1"/><gloss>honored</gloss></note>
+ 
+ 
+ <note type="footnote" n="3"><space rend="indent1"/><gloss>Somerset, county in southwestern England</gloss></note>
+ 
+ 
+ <note type="footnote" n="4"><space rend="indent1"/><gloss>unworthy</gloss></note>
+ 
+ 
+ <note type="footnote" n="5"><space rend="indent1"/><gloss>translate</gloss></note>
+ 
+ 
+ <note type="footnote" n="6"><space rend="indent1"/><gloss>necessary</gloss></note>
+ 
+ 
+ <note type="footnote" n="7"><space rend="indent1"/><gloss>deeds (feats)</gloss></note>
+ 
+ 
+ <note type="footnote" n="8"><space rend="indent1"/><gloss>brave (valiant)</gloss></note>
+ 
+ 
+ <note type="footnote" n="9"><space rend="indent1"/><gloss>valiantness</gloss></note>
+ 
+ 
+ <note type="footnote" n="10"><space rend="indent1"/><gloss>urging</gloss></note>
+ 
+ 
+ <note type="footnote" n="11"><space rend="indent1"/><gloss>consider (regard)</gloss></note>
+ 
+ 
+ <note type="footnote" n="12"><space rend="indent1"/><gloss>Frisia, coastal area in Holland and Germany</gloss></note>
+ 
+ 
+ <note type="footnote" n="13"><space rend="indent1"/><gloss>achieve (attain, reach a certain state)</gloss></note>
+ 
+ 
+ <note type="footnote" n="14"><space rend="indent1"/>in gree, <gloss>favorably</gloss></note>
+ 
+ 
+ <note type="footnote" n="15"><space rend="indent1"/><gloss>high</gloss></note>
+ 
+ </div></body></text></TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Hudson-Caxton-08-Paris-Tnotes-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>Textual Notes to Paris and Vienne</title><author>Hudson, Harriet</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-12" to="2024-02">Audited documents prior to print/export</resp><resp from="2018-08" to="2022-11">Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp from="2023-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2018-08" to="2023-09">Entered corrections for print edition</resp><resp from="2018-08" to="2022-11">Formatted for print edition</resp><resp from="2018-08" to="2023-08">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2023-12" to="2024-01">Audited documents prior to print/export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Prus, Caleb</persName><resp from="2020-07" to="2020-08">Ensured adherence to METS Style Guide</resp><resp from="2020-07" to="2020-08">Entered corrections for print edition</resp><resp from="2020-07" to="2020-08">Reviewed transcription of base manuscript or early print witness</resp></respStmt><respStmt><persName>Raybin, David</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-11" to="2022-12">Audited documents prior to print/export</resp><resp from="2022-11" to="2022-12">Checked and corrected bibliographic references</resp><resp>Collated and entered corrections</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2021-12" to="2022-12">Copyedited and proofread</resp><resp from="2021-12" to="2022-12">Ensured adherence to METS Style Guide</resp><resp from="2023-06" to="2023-06">Entered corrections for digital edition</resp><resp from="2023-06" to="2023-06">Entered corrections for print edition</resp><resp from="2021-12" to="2022-12">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-12">Wrote reader report</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Caxton, William</author><author>Cépède, Pierre de la</author><editor>Hudson, Harriet</editor><editor role="translator">Caxton, William</editor><title>William Caxton's Paris and Vienne and Blanchardyn and Eglantine</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/hudson-caxton/blob/main/hudson-caxton-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Hudson-Caxton-08-Paris-Tnotes"/><div type="text">
+ <p style="heading4">Chapter 1, Rubric</p>
+ <note type="tnote" n="1"><space rend="indent1"/><hi rend="italic">Chapter 1</hi>. The rubrics in BL are not numbered.</note>
+ <note type="tnote" n="2"><space rend="indent1"/><hi rend="italic">Here</hi>. So BL. A leaf has been inserted preceding Caxton’s text — a title page on which is printed his colophon. The type belongs to the eighteenth century, when the book was rebound.</note>
+ <p style="heading4">Chapter 1, Paragraph 1</p>
+ <note type="tnote" n="3"><space rend="indent1"/><hi rend="italic">In</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="4"><space rend="indent1"/><hi rend="italic">1271</hi>. So BL: <hi rend="italic">MCClxxi</hi>.</note>
+ <note type="tnote" n="5"><space rend="indent1"/><hi rend="italic">that men calle Dyane</hi>. This phrase does not appear in BN1. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <note type="tnote" n="6"><space rend="indent1"/><hi rend="italic">gladnes and joye</hi>. So BL. BN1, L: <hi rend="italic">feste</hi>.</note>
+ <note type="tnote" n="7"><space rend="indent1"/><hi rend="italic">bothe</hi>. So BL. BN1, L: <hi rend="italic">que </hi><hi rend="italic">lune ne povoit estre sans laultre</hi> [that the one could not be without the other].</note>
+ <note type="tnote" n="8"><space rend="indent1"/><hi rend="italic">contrees</hi>. BN1 and L include a phrase to the effect that Vienne was also renowned for the great dignity of her father and mother.</note>
+ <p style="heading4">Chapter 1, Paragraph 2</p>
+ <note type="tnote" n="9"><space rend="indent1"/><hi rend="italic">lygnage</hi>. So BL. BN1, L: <hi rend="italic">moult </hi><hi rend="italic">puissant de terres de chateaulx et de richesses</hi> [very powerful in lands in castles and in wealth].</note>
+ <note type="tnote" n="10"><space rend="indent1"/><hi rend="italic">Syr James</hi>. So BL. BN1 and L: <hi rend="italic">Jacques</hi>.</note>
+ <note type="tnote" n="11"><space rend="indent1"/><hi rend="italic">eightene</hi>. So BL: <hi rend="italic">xviii</hi>. BN1, L: <hi rend="italic">xv</hi>.</note>
+ <note type="tnote" n="12"><space rend="indent1"/><hi rend="italic">by the hande of the sayd lord daulphyn</hi>. L: <hi rend="italic">et </hi><hi rend="italic">dedans peu de tamps fut fait chevalier </hi>[and in a short while was made knight]. BN1 lacks this concluding phrase. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <p style="heading4">Chapter 1, Paragraph 4</p>
+ <note type="tnote" n="13"><space rend="indent1"/><hi rend="italic">Venus, the goddes of love</hi>. So BL. Not in BN1 and L.</note>
+ <note type="tnote" n="14"><space rend="indent1"/><hi rend="italic">But not </hi><hi rend="italic">long after . . . noble yong lady</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="15"><space rend="indent1"/><hi rend="italic">fyre of love within hymself</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 2, Rubric</p>
+ <note type="tnote" n="16"><space rend="indent1"/><hi rend="italic">played wyth dyvers instrumentes</hi><hi rend="italic"> by nyght</hi>. So BL. BN1, L: <hi rend="italic">faire les aubades</hi> [perform songs]. See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <p style="heading4">Chapter 2, Paragraph 1</p>
+ <note type="tnote" n="17"><space rend="indent1"/><hi rend="italic">melodyous myrthe</hi>. So BL. BN1, L: <hi rend="italic">aubades</hi>.</note>
+ <note type="tnote" n="18"><space rend="indent1"/><hi rend="italic">recourders</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="19"><space rend="indent1"/><hi rend="italic">pypes</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="20"><space rend="indent1"/><hi rend="italic">as wel of</hi><hi rend="italic"> mans wyces as of dyvers instrumentes</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 2, Paragraph 2</p>
+ <note type="tnote" n="21"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. L heading: <hi rend="italic">Comment le </hi><hi rend="italic">daulphin ordonna dix hommes bien armez pour faire amener devant </hi><hi rend="italic">luy les dits menestriers</hi> [How the dauphin ordered ten well-armed men to bring before him the said minstrels].</note>
+ <p style="heading4">Chapter 2, Paragraph 3</p>
+ <note type="tnote" n="22"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital L heading: <hi rend="italic">Comment Paris et Edouard son</hi><hi rend="italic"> compaignon se deffendirent contre dix hommes darmes</hi> [How Paris and Edward his companion defended themselves against ten men of arms].</note>
+ <note type="tnote" n="23"><space rend="indent1"/><hi rend="italic">not</hi>. So BL. BN1, L: <hi rend="italic">mais bien fut grief </hi><hi rend="italic">a iceuls espies de laisser la place et plus que </hi><hi rend="italic">deux mesmes mais pour doubte de mort sen fuirent et </hi><hi rend="italic">par ainsi sans nul dommaige ils eschapperent</hi> [but indeed it was painful to those scouts to yield the place, and more that for two only, but for fear of death they fled from there and in this manner escaped without any injury].</note>
+ <p style="heading4">Chapter 2, Paragraph 4</p>
+ <note type="tnote" n="24"><space rend="indent1"/><hi rend="italic">And</hi>. So BL. BN1 heading: <hi rend="italic">Comment Paris se miste avec levesque de saint </hi><hi rend="italic">Laurens</hi> [How Paris went with the bishop of Saint Lawrence].</note>
+ <note type="tnote" n="25"><space rend="indent1"/><hi rend="italic">chargyng that none hurte shold be doon to them</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 2, Paragraph 6</p>
+ <note type="tnote" n="26"><space rend="indent1"/><hi rend="italic">made lystes and scaffoldes to be sette up</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="27"><space rend="indent1"/><hi rend="italic">herauldes</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="28"><space rend="indent1"/><hi rend="italic">Normandye</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="29"><space rend="indent1"/><hi rend="italic">of fyn </hi><hi rend="italic">gold</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="30"><space rend="indent1"/><hi rend="italic">noble and fayr </hi><hi rend="italic">mayden</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="31"><space rend="indent1"/><hi rend="italic">and she thought . . . </hi><hi rend="italic">at Vyenne</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 2, Paragraph 7</p>
+ <note type="tnote" n="32"><space rend="indent1"/><hi rend="italic">Normandye</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="33"><space rend="indent1"/><hi rend="italic">erle</hi>. So BL. BN1, L: <hi rend="italic">conte</hi> [count]. Caxton always uses the English term; the rank is equivalent.</note>
+ <p style="heading4">Chapter 2, Paragraph 9</p>
+ <note type="tnote" n="34"><space rend="indent1"/><hi rend="italic">two</hi>. So BL. BN1: <hi rend="italic">v</hi>. L: <hi rend="italic">ung</hi> [one].</note>
+ <p style="heading4">Chapter 3, Paragraph 1</p>
+ <note type="tnote" n="35"><space rend="indent1"/><hi rend="italic">tofore the ladyes and damoyselles</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 3, Paragraph 2</p>
+ <note type="tnote" n="36"><space rend="indent1"/><hi rend="italic">kept</hi><hi rend="italic"> theyr sterops</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Rubric</p>
+ <note type="tnote" n="37"><space rend="indent1"/><hi rend="italic">in faytes of armes</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Paragraph 4</p>
+ <note type="tnote" n="38"><space rend="indent1"/><hi rend="italic">sparkles of love</hi><hi rend="italic"> that sprange out of hyr hert</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="39"><space rend="indent1"/><hi rend="italic">bysshop</hi>. So BL. BN1, L: <hi rend="italic">dyable devecque</hi> [devil of a bishop].</note>
+ <note type="tnote" n="40"><space rend="indent1"/><hi rend="italic">that hath be holden in Vyenne</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Paragraph 5</p>
+ <note type="tnote" n="41"><space rend="indent1"/><hi rend="italic">Now</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment le roy de France va ordonner unes joustes </hi><hi rend="italic">in la cité de Paris</hi> [How the king of France proclaimed jousts in the city of Paris].</note>
+ <note type="tnote" n="42"><space rend="indent1"/><hi rend="italic">Breunes</hi>. BL: <hi rend="italic">Brennes</hi>; twice later spelled <hi rend="italic">Breunes</hi>. See <ref target="insert-internal-link" type="internal">note 4.11</ref>, below.</note>
+ <note type="tnote" n="43"><space rend="indent1"/><hi rend="italic">mayntened</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="44"><space rend="indent1"/><hi rend="italic">reputed and holden . . . alle the world</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Paragraph 6</p>
+ <note type="tnote" n="45"><space rend="indent1"/><hi rend="italic">tresour</hi>. So BL. BN1, L: <hi rend="italic">et lequele luy avoit envoye la contesse </hi><hi rend="italic">de Flandres qui estoit sa dame</hi> [and which her mother, the countess of Flanders, had given to her].</note>
+ <note type="tnote" n="46"><space rend="indent1"/><hi rend="italic">wytte</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="47"><space rend="indent1"/><hi rend="italic">renommé</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="48"><space rend="indent1"/><hi rend="italic">quarelle</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Paragraph 9</p>
+ <note type="tnote" n="49"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment le roy de </hi><hi rend="italic">france va ordonner unes joustes en la cite de Paris</hi> [How the king of France proclaimed a joust in the city of Paris].</note>
+ <note type="tnote" n="50"><space rend="indent1"/><hi rend="italic">fourtene</hi>. So BL: <hi rend="italic">xiiii</hi>. BN1: <hi rend="italic">viii</hi>.</note>
+ <note type="tnote" n="51"><space rend="indent1"/><hi rend="italic">somme </hi><hi rend="italic">for to do armes and the other</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="52"><space rend="indent1"/><hi rend="italic">moche sumptuous and noble</hi>. So BL. BN1, L: <hi rend="italic">merveilleuse</hi> [marvelous].</note>
+ <note type="tnote" n="53"><space rend="indent1"/><hi rend="italic">these thre joyaulx</hi>. So BL. Not in L.</note>
+ <note type="tnote" n="54"><space rend="indent1"/><hi rend="italic">whyche shone and resplendysshed . . . in the baners</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 4, Paragraph 11</p>
+ <note type="tnote" n="55"><hi rend="italic"><space rend="indent1"/>Bremeos</hi>. So BL. So L: <hi rend="italic">fiz du duc du Breuues</hi> [son of the duke of Breunes; <hi rend="italic">u</hi>/<hi rend="italic">n</hi> printer’s error]. BN1 and Vers. I read <hi rend="italic">Bohemia</hi>.</note>
+ <p style="heading4">Chapter 5, Paragraph 3</p>
+ <note type="tnote" n="56"><space rend="indent1"/><hi rend="italic">Thenne</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 6, Paragraph 2</p>
+ <note type="tnote" n="57"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 6, Paragraph 5</p>
+ <note type="tnote" n="58"><space rend="indent1"/><hi rend="italic">The</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="59"><space rend="indent1"/><hi rend="italic">bysshop</hi>. So BL. BN1: <hi rend="italic">dyable deveque</hi> [devil of a bishop].</note>
+ <p style="heading4">Chapter 6, Paragraph 7</p>
+ <note type="tnote" n="60"><space rend="indent1"/><hi rend="italic">worshyp</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 7, Paragraph 1</p>
+ <note type="tnote" n="61"><space rend="indent1"/><hi rend="italic">accesse</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 7, Paragraph 2</p>
+ <note type="tnote" n="62"><space rend="indent1"/><hi rend="italic">bysshop</hi>. So BL. BN1: <hi rend="italic">dyable devesque</hi> [devil of a bishop].</note>
+ <p style="heading4">Chapter 7, Paragraph 3</p>
+ <note type="tnote" n="63"><space rend="indent1"/><hi rend="italic">lytel crased and sodenly taken, wherfore</hi>. So BL. BN1 and L read <hi rend="italic">grant mal mest venu</hi> [great sickness is come to me]; BN1: <hi rend="italic">sur le cuer</hi> [in the heart].</note>
+ <note type="tnote" n="64"><space rend="indent1"/><hi rend="italic">that none myght come in</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 7, Paragraph 4</p>
+ <note type="tnote" n="65"><space rend="indent1"/><hi rend="italic">whyche was</hi><hi rend="italic"> twelve foot longe</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 7, Paragraph 5</p>
+ <note type="tnote" n="66"><space rend="indent1"/><hi rend="italic">wysedom and reason</hi>. So BL. BN1, L: <hi rend="italic">bon sens</hi> [good sense].</note>
+ <p style="heading4">Chapter 7, Paragraph 6</p>
+ <note type="tnote" n="67"><space rend="indent1"/><hi rend="italic">veray</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="68"><space rend="indent1"/><hi rend="italic">And thus . . . she </hi><hi rend="italic">coude not stynte</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 7, Paragraph 7</p>
+ <note type="tnote" n="69"><space rend="indent1"/><hi rend="italic">other jewellys</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 8, Paragraph 2</p>
+ <note type="tnote" n="70"><space rend="indent1"/><hi rend="italic">and prayers</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="71"><space rend="indent1"/><hi rend="italic">shytte</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 8, Paragraph 3</p>
+ <note type="tnote" n="72"><space rend="indent1"/><hi rend="italic">contente</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 8, Paragraph 4</p>
+ <note type="tnote" n="73"><space rend="indent1"/><hi rend="italic">After</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 9, Paragraph 2</p>
+ <note type="tnote" n="74"><space rend="indent1"/><hi rend="italic">Thenne</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="75"><space rend="indent1"/><hi rend="italic">eightene</hi>. So BL: <hi rend="italic">xviii</hi>. BN1, L: <hi rend="italic">viii</hi>.</note>
+ <p style="heading4">Chapter 9, Paragraph 3</p>
+ <note type="tnote" n="76"><space rend="indent1"/><hi rend="italic">Thenne</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 9, Paragraph 6</p>
+ <note type="tnote" n="77"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 9, Paragraph 7</p>
+ <note type="tnote" n="78"><space rend="indent1"/><hi rend="italic">doughter</hi>. So BL. BN1, L: <hi rend="italic">folie</hi> [folly], which Caxton mistook for <hi rend="italic">fille</hi> [daughter].</note>
+ <p style="heading4">Chapter 10, Paragraph 2</p>
+ <note type="tnote" n="79"><space rend="indent1"/><hi rend="italic">menchon</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 10, Paragraph 3</p>
+ <note type="tnote" n="80"><space rend="indent1"/><hi rend="italic">Thenne</hi>. So BL. First letter is an enlarged capital. L heading: <hi rend="italic">Comment Paris parla a Vienne par </hi><hi rend="italic">la fenestre</hi> [How Paris spoke to Vienne at a window].</note>
+ <p style="heading4">Chapter 10, Paragraph 4</p>
+ <note type="tnote" n="81"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="82"><space rend="indent1"/><hi rend="italic">passages</hi>. So BL. BN1 and L include the word <hi rend="italic">chevaux</hi> [horses].</note>
+ <p style="heading4">Chapter 11, Paragraph 1</p>
+ <note type="tnote" n="83"><space rend="indent1"/><hi rend="italic">secretest wyse</hi>. So BL. Not in BN1, L.</note>
+ <note type="tnote" n="84"><space rend="indent1"/><hi rend="italic">taken</hi>. So BL. BN1, L: <hi rend="italic">premier somme</hi> [first sleep, early in the night].</note>
+ <note type="tnote" n="85"><space rend="indent1"/><hi rend="italic">endured tyl</hi><hi rend="italic"> on the morne at nyght</hi>. So BL. BN1, L: <hi rend="italic">dura</hi><hi rend="italic"> jusques a lendemain a vespres</hi> [lasted until the next day at vespers/evening].</note>
+ <p style="heading4">Chapter 11, Paragraph 2</p>
+ <note type="tnote" n="86"><space rend="indent1"/><hi rend="italic">and fere</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 14, Rubric</p>
+ <note type="tnote" n="87"><space rend="indent1"/><hi rend="italic">How</hi>. So BL. BN1: <hi rend="italic">Comment Vienne se retourna a la merci</hi><hi rend="italic"> de son per</hi> [How Vienne returned to the mercy of her father]. L: <hi rend="italic">Comment Vienne fut ramenee a lotel de</hi><hi rend="italic"> son pere</hi> [How Vienne was led to the dwelling of her father].</note>
+ <p style="heading4">Chapter 14, Paragraph 2</p>
+ <note type="tnote" n="88"><space rend="indent1"/><hi rend="italic">Now</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment Vienne </hi><hi rend="italic">demanda pardon a son pere</hi> [How Vienne asked pardon of her father]. L: <hi rend="italic">Comment Vienne fut ramenee a lotel de </hi><hi rend="italic">son pere</hi> [How Vienne was led to the dwelling of her father].</note>
+ <note type="tnote" n="89"><space rend="indent1"/><hi rend="italic">soule</hi>. So BL. BN1, L: <hi rend="italic">en dieu</hi> [God].</note>
+ <p style="heading4">Chapter 14, Paragraph 5</p>
+ <note type="tnote" n="90"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment le dauphin fist </hi><hi rend="italic">mestre sa fille hors de prison</hi> [How the dauphin had his daughter brought out of prison].</note>
+ <p style="heading4">Chapter 14, Paragraph 7</p>
+ <note type="tnote" n="91"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment le conte de Flandres manda au daulphyn </hi><hi rend="italic">une lettre</hi> [How the count of Flanders sent a letter to the dauphin].</note>
+ <p style="heading4">Chapter 15, Paragraph 1</p>
+ <note type="tnote" n="92"><space rend="indent1"/><hi rend="italic">allone</hi>. So BL. BN1, L: <hi rend="italic">avec son vartlet</hi> [with his servant].</note>
+ <p style="heading4">Chapter 15, Paragraph 2</p>
+ <note type="tnote" n="93"><space rend="indent1"/><hi rend="italic">Ryght</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 15, Paragraph 3</p>
+ <note type="tnote" n="94"><space rend="indent1"/><hi rend="italic">Dere</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 15, Paragraph 6</p>
+ <note type="tnote" n="95"><space rend="indent1"/><hi rend="italic">Edward sayd</hi>. So BL. BN1 and L read “<hi rend="italic">Il est</hi><hi rend="italic"> verite,” dist Vienne, “mais ne me parler plus de la</hi><hi rend="italic"> lettre</hi>” [“It is true,” said Vienne, “but do not speak to me more of the letter.”] See <ref target="insert-internal-link" type="internal">Explanatory Note</ref>.</note>
+ <p style="heading4">Chapter 16, Paragraph 1</p>
+ <note type="tnote" n="96"><space rend="indent1"/><hi rend="italic">letter, whyche she reteyneth . . . said letter</hi>. So BL. Not in BN1 and Vers. I.</note>
+ <p style="heading4">Chapter 16, Paragraph 2</p>
+ <note type="tnote" n="97"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment </hi><hi rend="italic">Paris receust le change de iii mille florins</hi> [How Paris received the change of three thousand florins].</note>
+ <p style="heading4">Chapter 16, Paragraph 3</p>
+ <note type="tnote" n="98"><space rend="indent1"/><hi rend="italic">Now</hi>. So BL. BN1 heading: <hi rend="italic">Comment le fils du</hi><hi rend="italic"> duc de Burgoine alla la cite de Vienne</hi> [How the son of the duke of Burgundy went to the city of Vienne]. L heading: <hi rend="italic">Comment le filz du duc de</hi><hi rend="italic"> Bourgoigne avec belle compaigne vint au Daulphine pour veoir Vienne</hi><hi rend="italic"> son espeuse, et pour lemmener avec luy, and comment il</hi><hi rend="italic"> fut receu en grand joye du daulphin, pere de la</hi><hi rend="italic"> dicte Vienne</hi>. [How the son of the duke of Burgundy with good company went to Dauphiné to see Vienne his betrothed, and to bring her away with him, and how he was received in great joy by the dauphin, father of the said Vienne].</note>
+ <p style="heading4">Chapter 16, Paragraph 4</p>
+ <note type="tnote" n="99"><space rend="indent1"/><hi rend="italic">honourable</hi>. BL: <hi rend="italic">honouble</hi>. Omitted letters added.</note>
+ <p style="heading4">Chapter 16, Paragraph 5</p>
+ <note type="tnote" n="100"><space rend="indent1"/><hi rend="italic">Thenne</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 18, Paragraph 4</p>
+ <note type="tnote" n="101"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 18, Paragraph 5</p>
+ <note type="tnote" n="102"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 18, Paragraph 7</p>
+ <note type="tnote" n="103"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 19, Rubric</p>
+ <note type="tnote" n="104"><space rend="indent1"/><hi rend="italic">hys felowe</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 19, Paragraph 2</p>
+ <note type="tnote" n="105"><space rend="indent1"/><hi rend="italic">Edward</hi>. BL: <hi rend="italic">Parys</hi>; this is an error; Leach emends to <hi rend="italic">Edward</hi>, which I follow.</note>
+ <p style="heading4">Chapter 20, Paragraph 1</p>
+ <note type="tnote" n="106"><space rend="indent1"/><hi rend="italic">Egypte</hi>. So BL. L: <hi rend="italic">aultre pt</hi>. [other part]; BN1: <hi rend="italic">Babilone</hi>. Leach suggests <hi rend="italic">Egypte</hi> is a misreading.</note>
+ <p style="heading4">Chapter 20, Paragraph 2</p>
+ <note type="tnote" n="107"><space rend="indent1"/><hi rend="italic">bynde</hi>. So BL. BN1: <hi rend="italic">quil luy en donnast </hi><hi rend="italic">a menger</hi> [which they gave to him to eat].</note>
+ <p style="heading4">Chapter 22, Rubric</p>
+ <note type="tnote" n="108"><space rend="indent1"/><hi rend="italic">How the doulphyn . . . goo into Jherusalem</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 22, Paragraph 3</p>
+ <note type="tnote" n="109"><space rend="indent1"/><hi rend="italic">Now</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="110"><space rend="indent1"/><hi rend="italic">partyes, whych </hi><hi rend="italic">beyng in tho partyes</hi>. BN1: <hi rend="italic">partie de elevante</hi> [region of the levant/east]; L: <hi rend="italic">parties devers le vent </hi>[regions in the direction of the wind].</note>
+ <p style="heading4">Chapter 22, Paragraph 4</p>
+ <note type="tnote" n="111"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 22, Paragraph 6</p>
+ <note type="tnote" n="112"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. BN1 heading: <hi rend="italic">Comment Paris alla </hi><hi rend="italic">en Alixandre pour veoir le dauphin</hi> [How Paris went to Alexandria to see the dauphin]. L heading: <hi rend="italic">Comment Paris avec </hi><hi rend="italic">deux freres sen alla en Alexandrie et la fut receut </hi><hi rend="italic">de lamiral moult honnorablement</hi> [How Paris with two friars went to Alexandria and there was received by the emir with much honor].</note>
+ <p style="heading4">Chapter 22, Paragraph 7</p>
+ <note type="tnote" n="113"><space rend="indent1"/><hi rend="italic">weste</hi>. BL: <hi rend="italic">theste</hi>. I follow Leach who emends to <hi rend="italic">west</hi>, which is accurate in context, and BL elides “w” elsewhere: <hi rend="italic">thorthy</hi>, [the worthy], so readers could have read the word as “the west.” However readings in the French texts point to eastern lands. L: <hi rend="italic">du vent</hi> [of the Levant], BN1: <hi rend="italic">levant</hi> [Levant].</note>
+ <p style="heading4">Chapter 22, Paragraph 8</p>
+ <note type="tnote" n="114"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="115"><space rend="indent1"/><hi rend="italic">and be welcome</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 22, Paragraph 10</p>
+ <note type="tnote" n="116"><space rend="indent1"/><hi rend="italic">On</hi>. So BL. First letter is an enlarged capital.</note>
+ <note type="tnote" n="117"><space rend="indent1"/><hi rend="italic">God and</hi>. So BL. Not in BN1, L.</note>
+ <p style="heading4">Chapter 22, Paragraph 12</p>
+ <note type="tnote" n="118"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. L heading: <hi rend="italic">Comment </hi><hi rend="italic">Paris delivra le daulphin de prison en Alexandrie</hi> [How Paris delivered the dauphin from prison in Alexandria].</note>
+ <p style="heading4">Chapter 22, Paragraph 13</p>
+ <note type="tnote" n="119"><space rend="indent1"/><hi rend="italic">Thys</hi>. So BL. First letter is an enlarged capital. L heading: <hi rend="italic">Comment le daulphin et Paris sen retournerent par</hi><hi rend="italic"> mer</hi> [How the dauphin and Paris returned by sea].</note>
+ <p style="heading4">Chapter 22, Paragraph 14</p>
+ <note type="tnote" n="120"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital. L heading: <hi rend="italic">Comment le dauphin et Paris </hi><hi rend="italic">furent receus de peuple de France en grand joye and </hi><hi rend="italic">en grand honneur</hi> [How the dauphin and Paris were received by the people of France with great joy and with great honor]. BN1 heading: <hi rend="italic">Comment chevaliers du dauphine vindrent au </hi><hi rend="italic">devant du dauphin</hi> [How knights of Dauphiné came before the dauphin].</note>
+ <p style="heading4">Chapter 22, Paragraph 16</p>
+ <note type="tnote" n="121"><space rend="indent1"/><hi rend="italic">And yet more . . . your </hi><hi rend="italic">fader</hi>. So BL. This sentence is punctuated with paragraph marks (¶) for emphasis.</note>
+ <p style="heading4">Chapter 22, Paragraph 18</p>
+ <note type="tnote" n="122"><space rend="indent1"/><hi rend="italic">two quarters of</hi><hi rend="italic"> an henne</hi>. So BL. BN1: <hi rend="italic">Vienne avoit fait la mediecine</hi><hi rend="italic"> quelle avoit fait au duc de bourgoigne des quartiers</hi> [Vienne had made the remedy which she had made to the duke of Burgundy of the quarters].</note>
+ <p style="heading4">Chapter 23, Paragraph 3</p>
+ <note type="tnote" n="123"><space rend="indent1"/><hi rend="italic">Whan</hi>. So BL. First letter is an enlarged capital.</note>
+ <p style="heading4">Chapter 24, Paragraph 1</p>
+ <note type="tnote" n="124"><space rend="indent1"/><hi rend="italic">world</hi>. So BL. BN1 and L add <hi rend="italic">et</hi><hi rend="italic"> croy que leur adventure fut mieulx de dieu que de</hi><hi rend="italic"> nulle aultre personne</hi> [and think that no one else had a life as godly as theirs].</note>
+ <p style="heading4">Chapter 24, Paragraph 2</p>
+ <note type="tnote" n="125"><space rend="indent1"/><hi rend="italic">Thus</hi>. So BL. Beside the colophon, in very faded grey ink, is written <hi rend="italic">This was my boke</hi> followed by another word, perhaps <hi rend="italic">omnis</hi>, and below that the word <hi rend="italic">annus</hi> and the Roman numeral <hi rend="italic">vxx</hi>. <hi rend="italic">Cossyn</hi> is written near the bottom of the colophon, and again below. There is faint lettering also at the top of the page. The hand appears to be Elizabethan secretary.</note>
+ <note type="tnote" n="126"><space rend="indent1"/><hi rend="italic">translated</hi>. So BL. L: <hi rend="italic">Emprientee </hi><hi rend="italic">en Anvers par moy Gherard Leeu, lan Mil CCCClxxxvii, le </hi><hi rend="italic">xv jour du mois de May</hi> [Printed in Antwerp by me Gherard Leeu in the year 1487, the fifteenth day of the month of May].</note>
+ </div></body></text></TEI>

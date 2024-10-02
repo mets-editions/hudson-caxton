@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Hudson-Caxton-03-Gen-Intro-tei">
+    <teiHeader>
+  <fileDesc>
+ <titleStmt><title>General Introduction</title><author>Hudson, Harriet</author><sponsor>The University of Rochester</sponsor>
+ <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+ <funder>National Endowment for the Humanities</funder>
+ <funder>The University of Rochester</funder>
+ <funder>TEAMS: Teaching Association for Medieval Studies</funder><respStmt><persName>Conklin, Ashley R.</persName><resp>Audited documents prior to print/export</resp><resp from="2022-07" to="2022-09">Checked and corrected bibliographic references</resp><resp from="2022-07" to="2022-09">Ensured adherence to METS Style Guide</resp><resp from="2022-07" to="2022-09">Entered corrections for print edition</resp></respStmt><respStmt><persName>Delcourt, Steffi</persName><resp from="2023-12" to="2024-02">Audited documents prior to print/export</resp><resp from="2018-08" to="2022-11">Copyedited and proofread</resp><resp>Ensured adherence to METS Style Guide</resp><resp from="2023-05" to="2023-09">Entered corrections for digital edition</resp><resp from="2018-08" to="2023-09">Entered corrections for print edition</resp><resp from="2018-08" to="2022-11">Formatted for print edition</resp><resp from="2018-08" to="2023-08">Formatted for XML export</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Kephart, Daniel</persName><resp from="2024-02" to="2024-02">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Lupack, Alan</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Norris, James</persName><resp from="2024-02" to="2024-05">Collected metadata</resp><resp from="2024-07" to="2024-07">Uploaded / Published digital edition</resp></respStmt><respStmt><persName>Peck, Russell A.</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Price, Eleanor</persName><resp from="2022-07" to="2022-09">Checked and corrected bibliographic references</resp><resp from="2022-07" to="2022-09">Ensured adherence to METS Style Guide</resp><resp from="2022-07" to="2022-09">Entered corrections for print edition</resp><resp from="2024-05" to="2024-06">Encoded TEI</resp></respStmt><respStmt><persName>Raybin, David</persName><resp from="2021-12" to="2022-03">Copyedited and proofread</resp><resp from="2021-12" to="2022-03">Ensured adherence to METS Style Guide</resp><resp from="2021-12" to="2022-03">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-03">Wrote reader report</resp></respStmt><respStmt><persName>Yee, Pamela M.</persName><resp from="2022-11" to="2022-12">Audited documents prior to print/export</resp><resp from="2022-11" to="2022-12">Checked and corrected bibliographic references</resp><resp from="2023-10" to="2023-10">Collected metadata</resp><resp from="2021-12" to="2022-12">Copyedited and proofread</resp><resp from="2021-12" to="2022-12">Ensured adherence to METS Style Guide</resp><resp from="2023-06" to="2023-06">Entered corrections for digital edition</resp><resp from="2023-06" to="2023-06">Entered corrections for print edition</resp><resp from="2021-12" to="2022-12">Reviewed edition for consistency and audience</resp><resp from="2021-12" to="2022-03">Reviewed edition for content and scholarship</resp><resp from="2021-12" to="2022-12">Wrote reader report</resp><resp>Collated and entered corrections</resp></respStmt></titleStmt><editionStmt><edition>Encoded in TEI in 2024</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <publisher>The Department of English, University of Rochester</publisher>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+ </address>
+ <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+ <address>
+ <addrLine>https://teams-medieval.org/about/</addrLine>
+ </address>
+ <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+ <pubPlace>Rochester, NY</pubPlace>
+ <address>
+ <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+ </address>
+ <availability status="restricted">
+ <p>Downloading shall be restricted to one copy for private use.</p>
+ </availability>
+    <date/>
+ </publicationStmt><seriesStmt>
+ <title level="s">The Middle English Text Series</title><respStmt><persName>Mead Bowen</persName><orgName>University of Rochester</orgName><resp>Mellon Fellow in the Digital Humanities, Editorial Staff</resp></respStmt><respStmt><persName>Theresa Coletti</persName><orgName>University of Maryland</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Ashley R. Conklin</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Rita Copeland</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Lisa Fagin Davis</persName><orgName>Medieval Academy of America</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Steffi Delcourt</persName><orgName>University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>Margaret Dull</persName><orgName>University of Rochester</orgName><resp>Director of Metadata Strategies, Technical Support Staff</resp></respStmt><respStmt><persName>John Dewees</persName><orgName>University of Rochester</orgName><resp>Digital Asset Management Lead, Technical Support Staff</resp></respStmt><respStmt><persName>Susanna Fein</persName><orgName>Kent State University</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>John Geck</persName><orgName>Memorial University of Newfoundland</orgName><resp>TEI Consultant, Technical Support Staff</resp></respStmt><respStmt><persName>Alexandra Gillespie</persName><orgName>University of Toronto</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas Goodmann</persName><orgName>University of Miami</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Thomas G. Hahn</persName><orgName>University of Rochester</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David A. Lawton</persName><orgName>Washington University in St. Louis</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Michael Livingston</persName><orgName>The Citadel</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Alan Lupack</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Bradley Martin</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Peter Nowak</persName><orgName>University of Rochester</orgName><resp>IT Support Specialist, Technical Support Staff</resp></respStmt><respStmt><persName>Katie Papas</persName><orgName>University of Rochester</orgName><resp>Section Supervisor, The Robbins Library, Technical Support Staff</resp></respStmt><respStmt><persName>Russell A. Peck</persName><orgName>University of Rochester</orgName><resp>General Editor, Editorial Board</resp></respStmt><respStmt><persName>Eleanor Price</persName><orgName>Eastman School of Music at the University of Rochester</orgName><resp>Staff Editor, Editorial Staff</resp></respStmt><respStmt><persName>David Raybin</persName><orgName>Eastern Illinois University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Eve Salisbury</persName><orgName>Western Michigan University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Anna Siebach-Larsen</persName><orgName>University of Rochester</orgName><resp>Associate Editor, Editorial Board</resp></respStmt><respStmt><persName>Lynn Staley</persName><orgName>Colgate University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Jeff Suszczynski</persName><orgName>Univeristy of Rochester</orgName><resp>Web Applications Programmer, Technical Support Staff</resp></respStmt><respStmt><persName>Victoria Szabo</persName><orgName>Duke University</orgName><resp>Consulting Editor, Editorial Board</resp></respStmt><respStmt><persName>David Wallace</persName><orgName>University of Pennsylvania</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Bonnie Wheeler</persName><orgName>Southern Methodist University</orgName><resp>Member, Advisory Board</resp></respStmt><respStmt><persName>Pamela M. Yee</persName><orgName>University of Rochester</orgName><resp>Managing Editor, Editorial Board</resp></respStmt><respStmt><persName>Phillip Zaborny</persName><orgName>University of Rochester</orgName><resp>Undergraduate Intern, Editorial Staff</resp></respStmt></seriesStmt>    
+ <sourceDesc>
+ <biblStruct>
+ <monogr><author>Caxton, William</author><author>Cépède, Pierre de la</author><editor>Hudson, Harriet</editor><editor role="translator">Caxton, William</editor><title>William Caxton's Paris and Vienne and Blanchardyn and Eglantine</title><imprint>
+ <publisher>Medieval Institute Publications</publisher>
+ <pubPlace>Kalamazoo, MI</pubPlace><date>2023</date></imprint>
+ </monogr>
+ </biblStruct>
+ </sourceDesc>
+ </fileDesc>
+  <encodingDesc>
+  <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary texts that medieval readers in the present-day British Isles would have encountered between the twelfth and sixteenth centuries. It is committed to making available both affordable print and open access editions to scholars, teachers, and students of the Western Middle Ages. In its digital publications, the series prioritizes a user-friendly interface and viewing options, multiple downloadable formats, enhanced searchability and filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny from the most demanding expert, yet would prove comprehensible, and even enticing, to someone who had never read Middle English before. This agenda dictates that METS publications offer not a critical edition reflecting all surviving manuscripts, and certainly not a diplomatic edition, but a best-text edition, informed by the notes and apparatus of earlier editions (where these exist), and by substantive variants from other manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to ensure a smooth reading experience, while non-English texts preserve both the original language and a modern English translation in facing-page format. Each edition offers expert assistance with language and lexicon, providing glosses alongside the text(s), textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and thematic and interpretive possibilities. All editions feature general introductions that set the edited text within its own time, place, and traditions, and link it to ancestor, congener, and successor materials. All publications contain comprehensive, current bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi rend="italic">Chicago Manual of Style</hi>.</p><correction>
+          <p>This text may include corrections made after the original edition went to press in order to correct errors and improve glosses. For a full list of editorial and typographical corrections made to this edition, please view its correction log on Github: https://github.com/mets-editions/hudson-caxton/blob/main/hudson-caxton-export-corrections-log.docx</p>
+        </correction></editorialDecl><schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+ </encodingDesc><profileDesc><langUsage><language ident="en">English, Modern (1500-present)</language></langUsage></profileDesc></teiHeader>
+    <text><body xmlns="http://www.tei-c.org/ns/1.0"><anchor xml:id="Hudson-Caxton-03-Gen-Intro"/><div type="text">
+ <p style="bodyfirst" n="1">William Caxton’s translations of <hi rend="italic">Paris and Vienne</hi> and <hi rend="italic">Blanchardyn and</hi><hi rend="italic"> Eglantine</hi> are among the first romances to be printed in England. Published in 1485 and 1489, respectively, they continued to be popular for more than a century and have considerable literary significance. They are the earliest English versions of French narratives already well known in medieval Europe. Circulating in verse and prose versions in numerous languages, romances of the faithful lovers were among the most popular narratives of the later Middle Ages and Renaissance. The stories’ sustained and widespread appeal had much to do with their lively, sympathetic characters and to their distinctive treatments of familiar plots. The romances both edify and entertain, exemplifying ideals of chivalry and steadfast devotion while incorporating adventure, suspense, deception, and humor. Audiences would also have appreciated their realistic depictions of tournaments and battles.</p>
+ <p style="body" n="1"><hi rend="italic">Paris</hi><hi rend="italic"> and Vienne</hi> and <hi rend="italic">Blanchardyn and Eglantine</hi> are important witnesses to the development of English prose style and the genre of romance, being in many ways precursors to the novel. They are unique among the romances that Caxton published, for they are the only independent romances of adventure; all the others are canonical works drawn from the epic cycles of England, France, and Greece and Rome. Despite similarities, the two narratives are a study in contrasts, since they give different but complementary accounts of chivalry and love, and nearly opposite treatments of characters who are Muslim.</p>
+ <p style="body" n="2">The sections that follow review what the romances have in common: their publication by Caxton, ties to the court of Burgundy, English audiences, shared narrative motifs, and fifteenth-century prose style. Commentary on Caxton’s translation practice and an explanation of my editorial practice are included. A chronological list of Caxton’s romances, manuals of chivalry, and conduct books appears in Table 1.</p>
+ <p style="body" n="3">The remainder of the volume consists of the edited text of each romance preceded by its own introduction addressing matters specific to that narrative, including origin, versions, manuscript history, and distinctive features. Each text is followed by Explanatory Notes and Textual Notes; a Bibliography and a Glossary complete the edition.</p>
+ <p style="heading" n="1">William Caxton: Merchant, Diplomat, and Printer</p>
+ <p style="bodyfirst" n="2">William Caxton was not the author of <hi rend="italic">Paris and Vienne</hi> or <hi rend="italic">Blanchardyn and Eglantine</hi>; however, as the person who chose to translate them and print them, he can be said to have authored them into English. His career and publications engaged him directly in the literary, economic, and political life of his times. Caxton was born in Kent around 1420, to parents who sent him to school<note target="#1" type="footnotelink">1</note> and arranged his apprenticeship to the merchant Robert Large, a member of the Mercers’ Company,<note target="#2" type="footnotelink">2</note> also Alderman, and later mayor of London. By 1444 Caxton himself was a Mercer engaged in exporting wool and importing fine textiles between London and northern Europe. Trading at Bruges,<note target="#3" type="footnotelink">3</note> he rose to become Governor of the English Nation of the Merchant Adventurers<note target="#4" type="footnotelink">4</note> there, and in this capacity held what one biographer calls “the most prominent, powerful and lucrative office available to a private Englishman abroad.”<note target="#5" type="footnotelink">5</note> Bruges was a nexus of trade and cultural diffusion from the continent to England, as well as one of the most important cities in the territories of the dukes of Burgundy. Here staples and luxury goods of all kinds from around the world were bought and sold.<note target="#6" type="footnotelink">6</note> Caxton’s office in the Merchant Adventurers required him to negotiate both international contracts and local agreements with London, the ports of Flanders, the French staple port at Calais, and the cities of the Hanseatic League.<note target="#7" type="footnotelink">7</note> His position of authority, expertise, and knowledge of commerce brought him into contact with important people and cultural trends. Edward IV commissioned him to negotiate shipping treaties and tariffs among the ruling houses of England and Burgundy. In addition to shipping and selling finished cloth and other goods between London and the Continent, Caxton was active in the book trade, supplying volumes in manuscript and print to nobles, gentry, citizens, and courtiers. His clients included aristocratic bibliophiles, literary patrons, and creators of libraries whose desire for books and display of status supported professional translators, scribes, and workshops with ties to the book trade.</p>
+ <p style="body" n="4">At the end of his appointment as Governor in 1468, Caxton ceased his active career with the Merchant Adventurers but remained in Bruges serving as secretary, librarian, and translator in the establishment of Margaret of Burgundy, the sister of Edward IV and wife of Charles the Bold.<note target="#8" type="footnotelink">8</note> With access to her library, and time at his disposal, Caxton began to translate a French Troy romance into English and completed the project at Cologne, where he became acquainted with the printing press.<note target="#9" type="footnotelink">9</note> In 1473 he printed the romance at Bruges with Colard Mansion, who operated the first press in that city. Having traded in books printed in Germany and at Lyon, Caxton recognized the advantages of the new technology and had experience supplying the growing demand for books.<note target="#10" type="footnotelink">10</note> With these in mind, he returned to London in 1476, after thirty years in northern Europe, to set up England’s first printing press in Westminster outside the City of London. Through the instability of the Wars of the Roses<note target="#11" type="footnotelink">11</note> he prospered there, translating, editing, publishing, printing, loaning, and selling books until his death in 1491 — a ready conduit to English readers for the fashionable French literature he had encountered on the Continent, as well as a source for material already circulating in English.</p>
+ <p style="heading" n="2">Caxton as Publisher</p>
+ <p style="bodyfirst" n="3">During the fifteen years that he operated his press, Caxton catered to the market’s demands, printing a variety of materials for a diverse audience. His publications included Latin grammars, standard educational texts, chronicles, indulgences, and such ephemera as handbills. Many of his publications, the books of hours and collections of homilies and prayers, were intended for religious instruction and devotional use. In addition to fostering the spread of literacy generally, Caxton made substantial contributions to English literature. He helped to form its canon, fostered the development of a courtly literary prose style distinct from the older alliterative tradition, and authored prologues and epilogues that are among the earliest examples of literary criticism in English. He edited Thomas Malory’s <hi rend="italic">Morte D’Arthur</hi> before printing it.<note target="#12" type="footnotelink">12</note> His many translations from French (also Latin and Dutch) added substantially to those works available to English readers and audiences. Although he created no original work of literature, he was a literary figure in his own right and an author according to literary practice of the period.<note target="#13" type="footnotelink">13</note> Major English writers of the fifteenth century, including Malory, Thomas Hoccleve, John Lydgate, and John Skelton, all reproduced pre-existing works by excerpting, paraphrasing, or translating. The years 1400–1530 saw a higher proportion of translated prose, compared to total literary production, “than in any other period of English literary history.”<note target="#14" type="footnotelink">14</note> Caxton published works by respected authors of earlier generations, commenting on their literary significance and acknowledging his admiration of Chaucer’s style. He printed the <hi rend="italic">Canterbury Tales</hi> (twice) as well as <hi rend="italic">Troilus and Criseyde</hi>, Gower’s <hi rend="italic">Confessio Amantis</hi>,<note target="#15" type="footnotelink">15</note> and Lydgate’s <hi rend="italic">Life of Our Lady</hi>, and his <hi rend="italic">The Horse, the</hi><hi rend="italic"> Sheep and the Goose</hi>.<note target="#16" type="footnotelink">16</note> Caxton’s edition of Malory’s <hi rend="italic">Morte D’Arthur</hi> was the only known version of the romance until the discovery of the Winchester Manuscript in the 1930s.<note target="#17" type="footnotelink">17</note> As notable as the works he did print are those that he did not. Excepting the <hi rend="italic">Morte</hi> and works by Chaucer, Caxton printed no English romances, and nothing in alliterative verse or prose (and he suppressed Malory’s alliteration in his edition). The style of <hi rend="italic">Piers Plowman</hi><note target="#18" type="footnotelink">18</note> and Richard Rolle<note target="#19" type="footnotelink">19</note> doubtless seemed old-fashioned and insular (“rude” and “uplondish”<note target="#20" type="footnotelink">20</note>) and their lexicon unfamiliar to one with Caxton’s continental tastes. Nevertheless, the earlier verse romances and alliterative works by Langland and Rolle circulated widely in Caxton’s England and continued to be popular in the sixteenth century when they were reprinted by his successors.<note target="#21" type="footnotelink">21</note></p>
+ <p style="heading" n="3">Caxton and Burgundian Literature</p>
+ <p style="bodyfirst" n="4">In addition to literature already circulating in English, Caxton printed works new to the language and established a program of chivalric publications that included treatises on conduct and knighthood, chronicles, histories, and romances. With the latter he sought both “to shap[e] and to satisf[y] the taste for romances of chivalry that dominated” the later fifteenth century.<note target="#22" type="footnotelink">22</note> Though they were new to readers of English, his romances were in keeping with literary tastes already established in Britain; there, readers of French owned copies of those works, and authors and translators were producing similar prose romances in English. Caxton’s publications introduced Burgundian literature with its attendant ideologies and social forms into English culture, contributing to what has been called a Burgundian Renaissance in England.<note target="#23" type="footnotelink">23</note> Many of his sources can be identified as works belonging to the collections of Dukes Charles the Bold and Philip the Good, among them writings of Christine de Pizan,<note target="#24" type="footnotelink">24</note> Raymond Lull,<note target="#25" type="footnotelink">25</note> and Geoffrey de la Tour-Landry.<note target="#26" type="footnotelink">26</note> The French text closest to Caxton’s translation of the latter is known to have been in the ducal library at Bruges.<note target="#27" type="footnotelink">27</note> Among Caxton’s other publications with sources or analogues in that collection are <hi rend="italic">The Game and </hi><hi rend="italic">Playe of the Chesse</hi>, <hi rend="italic">The Consolation of Philosophy</hi>, <hi rend="italic">Aesop’s </hi><hi rend="italic">Fables</hi>, <hi rend="italic">The Declamation of Noblesse</hi>, <hi rend="italic">The Golden Legend</hi>, and <hi rend="italic">The </hi><hi rend="italic">Book of Good Manners</hi>. He translated eight prose romances associated with the court and its sphere of influence, including <hi rend="italic">The </hi><hi rend="italic">Recuyell and the Historye of Troye</hi> and <hi rend="italic">Jason</hi>, both authored by Raoul le Fèvre, chaplain and secretary to Philip the Good.<note target="#28" type="footnotelink">28</note> The author of <hi rend="italic">Paris et Vienne</hi>, Pierre de la Cépède, was affiliated with the establishment of Duke Philip in Marseille. Louis de Gruuthuse, Flemish nobleman and bibliophile, owned the manuscript of the <hi rend="italic">Livre d’Eracles</hi> that Caxton probably used as a source for <hi rend="italic">Godfrey of Boulogne</hi>.<note target="#29" type="footnotelink">29</note> <hi rend="italic">Fierabras</hi> [<hi rend="italic">Charles the Great</hi>] was commissioned by Charles Bolomyer, Canon of Lausanne; <hi rend="italic">Four Sons of Aymon</hi> and <hi rend="italic">Enydos</hi> have Burgundian connections as well.</p>
+ <p style="body" n="5">Surviving manuscripts of <hi rend="italic">Paris et Vienne</hi> (in Brussels) and <hi rend="italic">Blancandin et l’Orgueilleuse d’Amours</hi> (in Vienna) were created in the atelier of the Maître de Wavrin at Lille, a studio of artisans supported by the patronage of Jean de Wavrin, bibliophile and counselor to Philip the Good.<note target="#30" type="footnotelink">30</note> Jean de Créquy, another patron of letters and counselor to the duke, commissioned the illustrated Vienna manuscript of <hi rend="italic">Blancandin</hi> from that atelier.<note target="#31" type="footnotelink">31</note> Members of the Croy family, who held titles and offices at the courts of Philip and Charles the Bold, owned the Brussels manuscript of <hi rend="italic">Paris et Vienne</hi>. Members of the family also commissioned two copies of the romance <hi rend="italic">Octovyen</hi> from the Wavrin workshop which they dedicated to Créquy.<note target="#32" type="footnotelink">32</note> The text of the plainer Paris manuscript of <hi rend="italic">Blancandin</hi>, which is “undoubtedly” closely related to Caxton’s source, is virtually identical to that of the Vienna manuscript and is written in a similar hand. It, too, was likely produced by the same atelier, perhaps for sale.<note target="#33" type="footnotelink">33</note> Such workshops in Flanders were the source of many deluxe manuscripts owned by English nobles; Edward IV’s fine decorated volumes imported from Bruges became the basis for the British Royal Library.</p>
+ <p style="body" n="6">Caxton’s attempt to introduce French prose romance into England was initially successful, and several of his translations continued in print until the end of the sixteenth century. <hi rend="italic">The Recuyell of the Historye of</hi><hi rend="italic"> Troye</hi> was particularly popular, to judge from the number of editions and copies that survive, and Wynkyn de Worde reprinted that romance as well as <hi rend="italic">Four Sons of Aymon</hi>, <hi rend="italic">Morte D’Arthur</hi>, and <hi rend="italic">Paris and Vienne</hi>.<note target="#34" type="footnotelink">34</note> In his own romance publications, de Worde continued to follow Caxton’s program of printing “what was currently available, and in demand, on the Continent,” that is, new translations of French prose romances.<note target="#35" type="footnotelink">35</note> Robert Copland and Richard Pynson, who followed de Worde, kept these four romances in print for more than a hundred years.</p>
+ <p style="heading" n="4">Caxton’s Audience: Patrons and Readers</p>
+ <p style="bodyfirst" n="5">Information about Caxton’s audiences comes from his prologues and dedications, and from traces left by readers in surviving manuscripts and documents. His dedicatees are both noble and bourgeois, and his writings recommend the romances to the reading of aristocrats as well as to a larger less elite audience. The dedications function as advertisements by calling attention to Caxton’s access to the aristocracy and flattering both the patron and aspiring readers of the gentry, merchant, and professional classes. The nature of Caxton’s relationship to his patrons and dedicatees varied, and he may not have assumed that they actually read the books dedicated to them. In his prologue to <hi rend="italic">Jason</hi>, he asks Edward IV, who had commissioned the translation, to allow him to dedicate it to the Prince of Wales, “to the entente he may begynne to lerne rede English,” rather than to the king himself, “for as moch as I doubte not his good grace hath it in Frensh, which he wel understandeth.”<note target="#36" type="footnotelink">36</note> However, Caxton did dedicate <hi rend="italic">Godfrey</hi><hi rend="italic"> of Boulogne</hi> to Edward, whose copy of the book survives.<note target="#37" type="footnotelink">37</note> He translated and printed <hi rend="italic">The Recuyell of Troye</hi> at the request of Margaret of Burgundy; the only surviving copy belonged to her sister-in-law, the queen Elizabeth.<note target="#38" type="footnotelink">38</note> <hi rend="italic">Blanchardyn</hi> was translated for Margaret Beaufort, mother of Henry VII. Caxton had earlier sold her a manuscript of the romance in French that may well have been his source. Caxton was present when Henry VII presented a copy of Christine de Pizan’s <hi rend="italic">Faites d’Armes</hi><hi rend="italic"> et de Chevalerie</hi> [Deeds of Arms and Chivalry] to the Earl of Oxford, who in turn conveyed it to the printer for translation. Margaret Beaufort owned a copy of the treatise that he had printed, given to her by her son.<note target="#39" type="footnotelink">39</note> These patrons’ support for the dissemination of material in print was regarded as a virtuous act of charitable largesse, making books of moral and educational value available to English readers. Such patronage was also a display of status modeled on Italian Renaissance courts where nobles asserted prestige by building libraries and owning luxury copies of important works. Not all of Caxton’s dedications acknowledge actual patronage; some, like the presentation of <hi rend="italic">The Ordre of Chyvalry</hi> to Richard III, seem more designed to ingratiate.<note target="#40" type="footnotelink">40</note></p>
+ <p style="body" n="7"> While English aristocrats read French, their courtiers and members of their households were more at home with English. In his prologue to the 1483 reprint of <hi rend="italic">The Game and Playe of the </hi><hi rend="italic">Chesse</hi>, Caxton explains that he translated it for the benefit of those who do not understand French and Latin, and “al them that . . . shal see, here, or rede” the book.<note target="#41" type="footnotelink">41</note> In the prologue to <hi rend="italic">The Nightingale</hi> Lady Anne Beaufort is envisioned reading the poem to her “people” for their moral instruction and entertainment.<note target="#42" type="footnotelink">42</note> If the engraving of Margaret of Burgundy in <hi rend="italic">The Recuyell of Troye</hi> is any indication, the audience would have consisted of ladies in waiting, their maids and pages, and members of the retinue, household, and family.<note target="#43" type="footnotelink">43</note> The scene resembles that of other dedicatory miniatures from France and northern Europe where the lady, surrounded by her attendants, receives the book from the kneeling author while others busy themselves on the periphery.<note target="#44" type="footnotelink">44</note></p>
+ <p style="body" n="8">In addition to aristocrats, Caxton dedicated books to several of London’s leading citizens. Hugh Bryce, a Mercer, funded the translation and production of the <hi rend="italic">Mirror of the World</hi>. Caxton dedicated <hi rend="italic">The Book</hi><hi rend="italic"> of Good Manners</hi> to William Pratt and <hi rend="italic">Charles the Great</hi> to William Daubeney — wealthy tradesmen and city officials. Caxton addressed his publications to “Cristen prynces, lordes, barons, knyghtes, gentilmen, marchauntes, and all the comyn peple,” as well as to clerks, ladies, and gentlewomen.<note target="#45" type="footnotelink">45</note> The surviving copies of Caxton’s romances belonged to such people: clergy, landed gentry, lawyers, officials, and court servants who would have shared them in their domestic and social circles. Raufe Batson, a member of the Mercers Company at Bruges in 1505, and Roger Thorney (d. 1515), a wealthy London Mercer, owned copies of <hi rend="italic">Godfrey </hi><hi rend="italic">of Boulogne</hi>.<note target="#46" type="footnotelink">46</note> Robert Johnson, a sub-deacon in Ely and rector in Essex, purchased copies of <hi rend="italic">Godfrey of Boulogne</hi>, <hi rend="italic">Enydos</hi>, and <hi rend="italic">Fayttes of Arms and Chivalry</hi> in 1510.<note target="#47" type="footnotelink">47</note> John Thynne, who owned <hi rend="italic">The Recuyell of Troye</hi> and <hi rend="italic">Enydos</hi>, was steward to the Seymour family and was knighted in 1546. The Troy story seems to have been especially popular, which is to be expected given Britain’s myth of Trojan origins. A copy belonged to Thomas Shuckburg, whose family held lands in Warwickshire; he could have obtained the book through an uncle who was listed as a member of the London Drapers Company in 1493.<note target="#48" type="footnotelink">48</note> Other copies of <hi rend="italic">The Recuyell of Troye</hi> were owned by William Saunder, a lawyer in Surrey who held important positions there under Henry VIII; by the Tresham family of Northamptonshire, a member of which was knighted in 1530; and by Margery Wellysborn, of Buckinghamshire, whose husband was MP in 1477.<note target="#49" type="footnotelink">49</note> Thomas Skeffington, master of military ordinance for the Tudors, owned <hi rend="italic">Jason</hi> and <hi rend="italic">The Mirror of the World</hi>.<note target="#50" type="footnotelink">50</note> One John Dew of Chesterton, a fellow of Gonville College, inscribed the surviving copy of <hi rend="italic">Blanchardyn and Eglantine</hi> in 1500.<note target="#51" type="footnotelink">51</note> A connection between Caxton and the prominent Paston family can be traced through their scribe, William Ebesham, whose shop was close by Caxton’s in Westminster. Ebesham made their “Grete Booke” as well as manuscript copies of Caxton’s documents.<note target="#52" type="footnotelink">52</note> The Pastons owned a copy of Caxton’s <hi rend="italic">The Game and Playe </hi><hi rend="italic">of the Chesse</hi>.<note target="#53" type="footnotelink">53</note></p>
+ <p style="body" n="9">Caxton’s early readers were quite separated by rank, wealth, and locale from his aristocratic patrons and the French nobles who were instrumental in the creation and dissemination of the romances he offered for sale. Their owners belonged to classes that did not fit neatly into the medieval hierarchy of those who work, pray, and fight, and whose growing numbers proved a challenge to the static ideals of feudal society that their reading matter validated. The technology of their books’ production was also at odds with these ideals, as mass production and consumption of printed materials had transformative implications for both cultural and economic capital. Caxton could manufacture books in “grete chepe and in grete nombre,” a virtue of printing that enabled him to reach a large group of socially diverse customers at once.<note target="#54" type="footnotelink">54</note> Though his technology was forward-looking, Caxton’s conservative tastes appealed to those of his socially ambitious customers. His prologues and the availability of printed books on chivalric themes suggested that one could rise in social status through appropriate choice of reading matter.<note target="#55" type="footnotelink">55</note> That the volumes were valued possessions and symbols of family status is clear from references in wills and other documents. It seems fitting that John Dew, who presumably owned other books he could have written in, chose the one containing <hi rend="italic">Blanchardyn</hi> to record his family’s pedigree and coat of arms.</p>
+ <p style="heading" n="5">Chivalry and Courtesy</p>
+ <p style="bodyfirst" n="6">Caxton’s romances are part of his larger program of chivalric publication and commentary on the practice of chivalry in his own times. Significantly, he chose to focus on the cycle of the Nine Worthies.<note target="#56" type="footnotelink">56</note> This group of legendary, biblical, and historical figures had served as a model of chivalric virtue since the early thirteenth century and was a favorite subject of literature and art at the courts of France and England. In these settings, the Worthies played an important role in the performance of chivalry, epitomized by the pageants, celebrations, ceremonies, and tournaments that took place at the founding of the Order of the Golden Fleece by Philip the Good in 1430.<note target="#57" type="footnotelink">57</note> Caxton had visited the shrine-chamber at Hesenden that the duke had constructed for the Order and dedicated at its founding. In his prologue to <hi rend="italic">Jason</hi>, Caxton described its paintings depicting the hero’s conquests and the mechanized marvel that produced wind and rain.<note target="#58" type="footnotelink">58</note> He could well have attended the celebration of the marriage of Margaret of York and Charles the Bold in 1468, which took place in Bruges amid extravagant pageantry and feats of arms at the Pas de l’Arbre d’Or [Challenge of the Golden Tree]. Here Anthony Woodville, later Caxton’s patron, famously jousted with Anton de la Roche, the Bastard of Burgundy.<note target="#59" type="footnotelink">59</note> At least four other tournaments were held by members of the Burgundian court while Caxton was in Bruges and Ghent, giving him many opportunities to observe such displays.<note target="#60" type="footnotelink">60</note> In London, court and urban cultures blended with the increased frequency of large-scale tournaments. Citizens attended these, and their businesses supported them.<note target="#61" type="footnotelink">61</note> Aldermen, officers, and guilds participated in the processions associated with civic and royal ceremonies where chivalric protocol played an important role. In a departure from the practice of earlier sovereigns, Edward IV showed favor to leading London citizens by bestowing knighthoods on aldermen and mayors.<note target="#62" type="footnotelink">62</note></p>
+ <p style="body" n="10">The dedication to <hi rend="italic">Blanchardyn and Eglantine</hi> recommends romances for their chivalric values:</p>
+ <quote>[I]t is as requesyte other whyle to rede in auncyent hystoryes of noble fayttes and valyaunt actes of armes and warre which have been achyeved in olde tyme of many noble prynces, lordes, and knyghtes, as wel for to see and know their walyauntnes for to stande in the specyal grace and love of their ladyes (Dedication.1).</quote>
+ <p style="bodyfirst" n="7">Caxton strikes a note of nostalgia and alarm at his contemporaries’ practice of chivalry in his epilogue to Raymond Lull’s <hi rend="italic">Ordre of Chyvalry</hi>:</p>
+ <quote>[This] booke is not requysyte to euery comyn man to haue, but to noble gentylmen that by their vertu entende to come and entre in to the noble ordre of chyualry the whiche in these late dayes hath been vsed accordyng to this booke here to fore wreton but forgeten and thexcersytees of chyualry not vsed honoured ne excercysed as hit hath ben in auncyent tyme.<note target="#63" type="footnotelink">63</note></quote>
+ <p style="bodyfirst" n="8">After citing Arthur and the Knights of the Round Table he laments, “O ye knyghtes of Englond where is the custome and vsage of noble chyualry that was vsed in the dayes?”<note target="#64" type="footnotelink">64</note> In closing, Caxton appeals to Richard III to make the book required reading for young lords, knights, and gentlemen who aspire to knighthood. Caxton had printed a number of other treatises on chivalry and manners including <hi rend="italic">The Game and Playe of the Chesse</hi> and <hi rend="italic">Fayttes of Arms and Chivalry</hi>. Connections can be made between the manuals and the romances published in the same year: the battle plans and siege warfare described in <hi rend="italic">Blanchardyn </hi><hi rend="italic">and Eglantine</hi> resemble the instructions for mounting defenses and sieges in Christine’s <hi rend="italic">Fayttes of Arms and Chivalry</hi> (1489), while the tournaments and pilgrimage of <hi rend="italic">Paris and Vienne</hi> are in keeping with the ideals of Lull’s <hi rend="italic">Ordre of Chyvalry</hi> (1485).<note target="#65" type="footnotelink">65</note> Caxton’s prologues and epilogues are conduct books of a sort, instructing readers in how to approach aristocratic texts.<note target="#66" type="footnotelink">66</note></p>
+ <p style="body" n="11">The romances themselves are courtesy literature, for their characters epitomize proper deportment and chivalric excellence, or the lack thereof.<note target="#67" type="footnotelink">67</note> <hi rend="italic">Blanchardyn and Eglantine</hi> can be read as a mirror for princes and princesses, <hi rend="italic">Paris and Vienne</hi> as a mirror for adolescents.<note target="#68" type="footnotelink">68</note> Blanchardyn is a paragon of courteous behavior: his audiences with Eglantine are models of elegant manners as he approaches the royal personage and “makes the reverence,” speaking politely and displaying humility, discretion, and reticence.<note target="#69" type="footnotelink">69</note> Such behavior is described in Caxton’s <hi rend="italic">Babee’s Boke</hi> and <hi rend="italic">The Boke of Curtasye</hi>, which include instructions for how properly to greet one’s lord or superior, approach them, and engage in conversation.<note target="#70" type="footnotelink">70</note> Though Vienne’s determination and loyalty to Paris is admirable, her disobedience and refusal of the completely appropriate marriage her father arranges for her are negative illustrations of the ideals of obedience, submission, and respect for parents, especially regarding marriage, that are set forth in <hi rend="italic">The</hi><hi rend="italic"> Book of the Knight of the Tour-Landry</hi>. That treatise, addressed to the knight’s daughters, concludes with a debate as to the propriety of “love paramours,” or courtly love. He asserts that a knight’s love of a lady can inspire him to good conduct and skill at arms while raising the reputation of the lady; his wife argues that men perform feats of chivalry mainly to enhance their own reputations and are more often motivated by lust than by love.<note target="#71" type="footnotelink">71</note> <hi rend="italic">Blanchardyn and Eglantine</hi> and <hi rend="italic">Paris and Vienne</hi> both mention the lovers’ educations and include many dialogues in which the heroes and heroines are advised by their confidantes as to the proper course of conduct, often in terms that resonate with those of didactic writings. Even the format of Caxton’s books encouraged instructional reading, and, characteristically for Burgundian works, included prologues and epilogues emphasizing the works’ educational and chivalric value. Additionally, tables of chapters and chapter headings called attention to characters’ good and bad behaviors and make the text easier for readers to navigate.<note target="#72" type="footnotelink">72</note></p>
+ <p style="heading" n="6">Features of Chivalric Romance in <hi rend="italic">Paris and Vienne</hi> and <hi rend="italic">Blanchardyn and </hi><hi rend="italic">Eglantine</hi></p>
+ <p style="bodyfirst" n="9"><hi rend="italic">Paris and Vienne</hi> and <hi rend="italic">Blanchardyn and Eglantine</hi> share features typical of fifteenth-century chivalric narratives from France. Their authors and redactors composed in prose, a form employed in historical and scientific writings that began to replace verse as the preferred medium for French romances at the time. Descriptions are heightened, as are depictions of emotions, while battles and combats are narrated in formulas that create melodrama and arouse the audience’s empathy.<note target="#73" type="footnotelink">73</note> Characters are developed through passages of dialogue, monologue, reflection, and self-analysis. Both narratives depict the headstrong lovers humorously on occasion, and have active female characters.</p>
+ <p style="body" n="12">The narratives are composed of elements belonging to the common vocabulary of romance. As MacEdward Leach observes of <hi rend="italic">Paris and </hi><hi rend="italic">Vienne</hi>, “it is the stock motifs that carry the story.”<note target="#74" type="footnotelink">74</note> Readers of medieval romance will recognize such familiar memes as the blocking father, the bold Muslim princess, the treacherous steward, three-day tournaments to prove a lady’s champion, lovers separated by storms, and recognition by ring. Both romances feature a secondary couple, confidantes of the lovers, who also marry. Both exiled heroes pass as Muslim by appearance and language, ingratiate themselves with Muslim rulers by acts of chivalry, and rescue imprisoned fathers.<note target="#75" type="footnotelink">75</note></p>
+ <p style="body" n="13">Caxton’s romances treat generic motifs with literary sophistication and a degree of verisimilitude. Like his sources, Caxton refers to his romances as “hystoryes,” making a claim to veracity and fidelity to actual events that the genre of romance does not. The word <hi rend="italic">history</hi> accords with the fifteenth-century taste for realistic narratives and for true (and therefore instructive) stories. Pierre de la Cépède remarked that he found the material in some romances hard to believe, and so selected the story of Paris and Vienne to translate because it was reasonable and credible enough [<hi rend="italic">assez </hi><hi rend="italic">croyable</hi>]. The two romances belong to a genre in which chivalric romance can be seen to presage the historical novel.<note target="#76" type="footnotelink">76</note> The absence of supernatural elements, the localized settings, and the attention to detail give a realistic cast to the narratives. Unlike many other knights who ride through the forests of romance, Blanchardyn gets hungry and eats the wild fruit and crab apples growing there. Paris’s voyage of adventure is not impelled by storms at sea; rather, he arranges passage to and from the Holy Land and pays for his transportation with funds drawn from Missire Bertran’s bank. Both romances are set in specific geographic locales. <hi rend="italic">Blanchardyn and </hi><hi rend="italic">Eglantine</hi> takes place in the Baltic, near Marienbourg where the romance’s patron, Jean de Créquy, had rendered military service to the duke of Burgundy. <hi rend="italic">Paris and Vienne</hi> is set in the city of Vienne and along the Rhone River to the Mediterranean, a region that would have been familiar to its author who lived in Marseille. Characteristically for Burgundian romances, fictional adventures can be traced on historical maps and resonate with actual events.<note target="#77" type="footnotelink">77</note></p>
+ <p style="body" n="14">Despite the romances’ commonalities, their differences show them belonging to different sub-genres, and deriving from different literary and regional traditions of chivalric narrative. <hi rend="italic">Blanchardyn and Eglantine</hi>, the older, is anonymous and originated in northern France, probably Picardy, in the early thirteenth century. What began as a verse romance set in Athens and India made the transition to prose in the mid-fifteenth century in a version set along the North Sea.<note target="#78" type="footnotelink">78</note> The story of Paris and Vienne originated in Provence during the late fourteenth century and was composed in French prose by Pierre de la Cépède in 1432. <hi rend="italic">Blanchardyn and Eglantine</hi> is lengthy and offers an elaborated rendition of Burgundian prose style, while <hi rend="italic">Paris and Vienne</hi> is a shorter treatment of de la Cépède’s embellished romance, with less rhetorical ornamentation and a more linear narrative. <hi rend="italic">Blanchardyn and Eglantine</hi> is a military adventure of armies, navies, sieges, and gruesome combats in which the knight proves himself by defending his lady and her kingdom from invading armies and treasonous officials. <hi rend="italic">Paris and Vienne</hi> includes no such episodes, for the lady’s person and kingdom are not under attack; instead, Paris demonstrates chivalric prowess in a series of tournaments to become her champion. <hi rend="italic">Paris </hi><hi rend="italic">and Vienne</hi> is a family romance: the obstacle to the lovers’ marriage is parental objection, not the assault of an unwanted suitor, and the matter is complicated by class, for the dauphin of Vienne rejects Paris’s suit because of his inferior rank. <hi rend="italic">Blanchardyn and Eglantine</hi> engages issues of class briefly from a negative perspective in the episode of the treacherous steward and introduces family romance only in the sub-plot of the secondary couple. <hi rend="italic">Blanchardyn and Eglantine</hi> is interested in governance and <hi rend="italic">fin amor</hi>, <hi rend="italic">Paris and Vienne</hi> in adolescent behavior and marriage.</p>
+ <p style="body" n="15">While both heroes disguise themselves as cultural and religious others, the romances offer differing representations of Muslims and use different terms to refer to characters and peoples who are Muslims. <hi rend="italic">Blanchardyn and Eglantine</hi> is indebted to the <hi rend="italic">chansons de geste</hi> for its portrayals and employs the words <hi rend="italic">Saracen</hi> and <hi rend="italic">pagan</hi> exclusively and almost interchangeably to characterize the enemy king, Alymodes, and his people. The romance portrays these characters in terms of the negative racial stereotypes associated with the label <hi rend="italic">Saracen</hi>, including dark skin, monstrous bodies, and wrongful aggression against Christians who slay them or force them to convert. While Sadoyne and the Prussians who come to Blanchardyn’s aid are not so vilified, their religious rituals, like those of Alymodes, are said to include the worship of idols and a deity named Mahoun, practices forbidden by Islam but commonly ascribed to Muslims in Christian writings. <hi rend="italic">Paris and </hi><hi rend="italic">Vienne</hi> uses a term that appears more frequently in the later Middle Ages and refers to Paris and the inhabitants of the Middle East solely as <hi rend="italic">Moors</hi>. Like Saracens, these Moors differ from Europeans in language, dress, and religion, but they are not racialized or depicted as disfigured, idol-worshiping, enemies.<note target="#79" type="footnotelink">79</note></p>
+ <p style="body" n="16"><hi rend="italic">Blanchardyn and Eglantine</hi> is the more conventional romance; the characters of <hi rend="italic">Paris and Vienne</hi> are the more realistic. Perhaps for this reason, and because of its straightforward narrative and accessible style, it was the more popular and long-lived of the two romances. It was reprinted numerous times while <hi rend="italic">Blanchardyn and Eglantine</hi> saw no later editions, though both romances were revised and continued in circulation. Their differences extend to their physical formats: <hi rend="italic">Blanchardyn</hi> is a decorated volume in single columns with dedication, table of chapters, and numbered chapter headings; <hi rend="italic">Paris</hi> is plainer, in double columns, with less prominent headings and no ancillary matter or table.</p>
+ <p style="heading" n="7">Caxton’s Translation Practice and Prose Style</p>
+ <p style="bodyfirst" n="10">Caxton followed the practice of close translation common in fifteenth-century England. As he explains in the prologue to <hi rend="italic">The Mirror of the World</hi>, “I have to my power folowed my copye. And as nygh as to me is possible I have made it so playn, that every man resonable may understonde it.”<note target="#80" type="footnotelink">80</note> Thus, he brought into English the prose style of his French sources. In the prologue to <hi rend="italic">Enydos</hi> he praises this style as “wel ordred” and using “fayr and honest termes.”<note target="#81" type="footnotelink">81</note> It was also characterized as “compendious.”<note target="#82" type="footnotelink">82</note> Fifteenth-century writers of French prose narratives cultivated an ornate style notable for <hi rend="italic">ampificatio</hi> and rhetorical exuberance intended to elevate the subject, and which relied on embellishments like hyperbole and Latinate diction — the gilding of the aureate style. This way of writing was also influenced by curial prose with its learned vocabulary, synonymic doublets, epistolary formulas, and phrases of referential precision (“the which,” “that same”).<note target="#83" type="footnotelink">83</note> Caxton’s prose is notable for recapitulation and redundancy, particularly doublets of synonyms in English and French. His syntax follows that of his sources: long chains of clauses and phrases strung together by sequences of subordinate and, more often, coordinate constructions. In neither French nor English is syntax necessarily supported by punctuation and dialogues shift freely from direct to indirect discourse.<note target="#84" type="footnotelink">84</note></p>
+ <p style="body" n="17">Caxton’s skill as a translator and prose stylist grew over the course of his publishing career, and both <hi rend="italic">Paris and Vienne</hi> and <hi rend="italic">Blanchardyn and Eglantine</hi> are products of his later years. Editors have praised his accomplishments: Leach commends the former for its “clear straightforward style,” while Kellner finds the latter “not inferior to Peacock, the greatest prosaist of his time.”<note target="#85" type="footnotelink">85</note> Caxton aimed for accuracy and intelligibility; though his lexicon imports terms from his source, his vocabulary is midway between the extremes of vernacular, common terms, and ornate, aureate language. As he explains in the prologue to <hi rend="italic">Enydos</hi>, “Some gentylmen . . . late blamed me, sayeng that in my translacyons I had over curyous termes which coude not be understande of comyn peple and desired me to use olde and homely termes in my translacyons . . . And som honest and grete clerkes have ben wyth me and desired me to wryte the moste curyous termes that I coude fynde . . . Therfor in a meane between both I have reduced and translated this sayd booke.”<note target="#86" type="footnotelink">86</note> In the dedication of <hi rend="italic">Blanchardyn and Eglantine</hi>, he asks Margaret to pardon his “rude and comyn Englyshe . . . , for I confesse me not lerned ne knowynge the arte of rethoryk ne of suche gaye termes as now be sayd in these dayes and used” (Dedication.2). Elsewhere he apologizes for his lack of subtle new eloquence while explaining that he avoids the language of “rude uplondish men.”<note target="#87" type="footnotelink">87</note> Though these are typical instances of the humility topoi in authorial prologues, Caxton’s comments recognize the varied and fluid state of the English language, the possibilities of elite and vernacular styles, and the differences between the self-consciously refined literary language of aristocrats and the English widely in use.</p>
+ <p style="heading" n="8">Editorial Practice</p>
+ <p style="bodyfirst" n="11">The texts that follow are based on the single surviving copies of the romances in the Rylands Library and the British Library. Following METS editorial guidelines, I silently regularize <hi rend="italic">i</hi>/<hi rend="italic">j</hi> and <hi rend="italic">u</hi>/<hi rend="italic">v</hi> spellings and use modern capitalization, punctuation, and word division. Thus, dialogue appears in quotation marks, and <hi rend="italic">hym self</hi> is spelled <hi rend="italic">hymself</hi>. I silently expand the pronoun <hi rend="italic">thee</hi> to differentiate it from the article <hi rend="italic">the</hi>, as well as the adverb <hi rend="italic">off</hi> to distinguish it from the preposition <hi rend="italic">of</hi>. Standard printers’ abbreviations are also silently expanded, as are elided articles where nouns begin in vowels (<hi rend="italic">the ynstance</hi> not <hi rend="italic">thynstance</hi>). Transposed and inverted letters are corrected (<hi rend="italic">for</hi>, Caxton reads <hi rend="italic">fro</hi>; <hi rend="italic">Breunes</hi>, Caxton reads <hi rend="italic">Breuues</hi>). Caxton’s punctuation is not regular and consists of marks no longer in use, and his syntax does not conform to modern practice, so I have slightly modernized the punctuation to facilitate reading. I have also edited his paragraphing to follow the narrative more closely. In Caxton’s texts, a whole chapter may consist of only one paragraph, or sentences may be punctuated as paragraphs for emphasis. These features are cited in the Textual Notes accompanying each romance.</p>
+ <p style="bodysubection">The following passage from <hi rend="italic">Paris and Vienne</hi> is found on folio 1v of BL C10.b10:</p>
+ <quote>. . . And the fayre Vyenne grewe and encreaced ever in soverayn beawte and gentylness so that the renomme of hyr excellent beawte flourysshed not onley thrugh al frau~ce but also thrugh al the royaume of englond &amp; other contrees | It happed after she was xv yere of age that she was desyred to maryage of many knyghtes &amp; grete lordes | &amp; at that tyme was in the daulphyns courte emonge many hys knyghtes | a noble mã of auncyent lygnage &amp; of faye londes | the whiche was wel byloued of the daulphyn &amp; of alle the lordes of the lande and was called Syr James | thys noble man had a moche fayr sone that had to name Parys | &amp; hys fader made hym to be taught in al good custommes | and whan he was xviii yere of age he was adressed to the dyscyplyne of armes | &amp; demened hym self so nobly &amp; worthely in al maner dedes of chyualrye that wythin a shorte tyme after he was doubed knyght by the hande of the sayd daulphyn | ¶ Noo fayte of knyghthode ne none adventure of chyualrye happed after but that he founde hym self at it in soo moche that the renommee of hym ranne thurgh al the world &amp; men sayde he was one of the best knyghtes þ~ myght be founde in ony contree | &amp; helde hym self ryght clene in armes and lyued chastly &amp; joyefully | &amp; had euer aboute hym fowles hawkes and houndes for his dysporte to all maner of huntyng suffysaunt ynough for a duc or for an erle | and thurgh hys prowesse and hardynes he was acqueynted &amp; knowen of many other grete lordes | and emonge all other he was gretely and louyngly acqueynted with a yonge knyght of the cyte of Vyenne that hyght Edward | and were bothe of one age and moche loued eche other | and as two brethern of armes wente euer to gyder there as they knew ony joustyng or appertyse of armes to be had for to gete honour| ¶ And wete it wel that besyde theyr worthynes in armes they were good musycyens playeng upon alle maner instrumentes of musyke |and coude synge very well | but Parys passed in al ponytes his felowe Edward . . .</quote>
+ <p style="bodyfirst" n="12">Points at which my edited text differs appear in bold type.</p>
+ <quote>. . . And the fayre Vyenne grewe and encreaced ever in soverayn beawt<hi rend="bold">é</hi> and gentylnesse so that the renomee of hyr excellent beawt<hi rend="bold">é</hi> flourysshed not onely thurgh al Frau<hi rend="bold">n</hi>ce but also thurgh al the royame [fol. 1v] of <hi rend="bold">E</hi>nglond <hi rend="bold">and</hi> other contrees.</quote>
+ <quote><hi rend="bold">2<space rend="indent1"/></hi><space rend="indent1"/><hi rend="bold">It</hi> happed after she was <hi rend="bold">fyftene</hi> yere of age that she was desyred to maryage of many knyghtes <hi rend="bold">and</hi> grete lordes<hi rend="bold">.</hi> <hi rend="bold">A</hi>nd at that tyme was in the daulphyns courte emonge many hys knyghtes <hi rend="bold">a</hi> noble ma<hi rend="bold">n</hi> of auncyent lygnage <hi rend="bold">and</hi> of fayr londes, the whiche was wel byloved of the daulphyn <hi rend="bold">and</hi> of alle the lords of the lande, and was called Syr James<hi rend="bold">.</hi> <hi rend="bold">T</hi>hys noble man had a moche fayr sone that had to name Parys, <hi rend="bold">and</hi> his fader made hym to be taught in al good custommes<hi rend="bold">.</hi> <hi rend="bold">A</hi>nd whan he was <hi rend="bold">eightene</hi> yere of age he was adressed to the dyscyplyne of armes, <hi rend="bold">and</hi> demened hymself so nobly <hi rend="bold">and</hi> worthely in al maner dedes of chy<hi rend="bold">v</hi>alrye that wythin a shorte tyme after he was doubed knyght by the hande of the sayd lord daulphyn.</quote>
+ <quote><hi rend="bold">3</hi><space rend="indent2"/>Noo fayte of knyghthode ne none adventure of chyvalrye happed after but that he founde hymself at it<hi rend="bold">,</hi> in soo moche that the renommee of hym ranne thurgh al the world, and men sayd he was one of the best knyghtes <hi rend="bold">that</hi> myght be founde in ony contree. <hi rend="bold">And</hi> helde hymself ryght clene in armes and lyved chastly <hi rend="bold">and</hi> joyefully<hi rend="bold">.</hi> <hi rend="bold">A</hi>nd had ever aboute hym fowles<hi rend="bold">,</hi> hawkes<hi rend="bold">,</hi> and houndes for hys dysporte to alle maner of huntyng suffysaunt ynough for a duc or for an erle<hi rend="bold">.</hi> <hi rend="bold">A</hi>nd thurgh hys prowesse and hardynes he was acqueynted <hi rend="bold">and</hi> knowen of many other grete lordes<hi rend="bold">.</hi> <hi rend="bold">A</hi>nd emonge alle other<hi rend="bold">,</hi> he was gretely and lo<hi rend="bold">v</hi>yngly acqueynted with a yonge knyght of the cyt<hi rend="bold">é</hi> of Vyenne that hyght Edward<hi rend="bold">,</hi> and were bothe of one age and moche loved eche other. <hi rend="bold">A</hi>nd as two brethern of armes wente e<hi rend="bold">v</hi>er togyder there as they knew ony jousytng or appertyse of armes to be had for to gete honour.</quote>
+ <quote><hi rend="bold">4</hi><space rend="indent2"/>And wete it wel that<hi rend="bold">,</hi> besyde theyr worthynes in armes<hi rend="bold">,</hi> they were good musycyens<hi rend="bold">,</hi> playeng upon alle maner instrumentes of musyke and coude synge veray wel, but Parys passed in al ponytes his felowe Edward . . .</quote>
+ <p style="heading" n="9">Table 1: Caxton’s Translations of Romances and Chivalric Treatises</p>
+ <p style="bodyfirst" n="13">Date refers to the year of the first printing.</p>
+ <p style="bodyfirst" n="14">Dedicatees are those mentioned in prologues.</p>
+ <p style="bodyfirst" n="15">Sources are individuals mentioned in prologues and elsewhere who provided the French texts that Caxton translated.</p>
+ <table style="basictable">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="smallcaps">Date</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="smallcaps">Title</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="smallcaps">Author</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="smallcaps">Dedicatee</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="smallcaps">Source</hi></p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1473</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">The Recuyell and Historye of Troy</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Raoul le Fèvre</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Margaret, duchess of Burgundy</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Margaret,</p>
+ <p style="horizontal-center">duchess of Burgundy</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1474</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">The Game and Playe of the Chesse </hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Jacobus de Cessolis</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">George, duke of Clarence and earl of Warwick</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1477</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Jason</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Raoul le Fèvre</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Edward IV; Edward, prince of Wales</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1481</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Godfrey of Boulogne [The Siege of Jerusalem]</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">unknown</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Edward IV</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1484</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">The Book of the Knight of</hi><hi rend="italic"> the Tower</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Geoffrey de la Tour-Landry</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Queen Elizabeth Woodville</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">The Ordre of Chyvalry</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Raymond Lull</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Richard III</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Anthony Woodville, earl Rivers</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1485</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Paris and Vienne</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Pierre de la Cépède</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Charles the Great</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Jean de Bagnyon</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">William Daubeny</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ <row>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">King Arthur [Le Morte d’Arthur]</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Sir Thomas Malory</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">At the instigation of Edward IV and request of “noble and diverse gentlemen”</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1489</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Blanchardyn and Eglantine</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">unknown</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Margaret Beauchamp, duchess of Somerset</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Margaret Beauchamp</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Four Sons of Aymon</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">unknown</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">John, earl of Oxford</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Deeds of Arms and Chivalry</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Christine de Pizan</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">John, earl of Oxford</p>
+ </cell>
+ </row>
+ <row>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">1490</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center"><hi rend="italic">Enydos [Aeneas]</hi></p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Virgil</p>
+ </cell>
+ <cell style="No-Table-Style">
+ <p style="horizontal-center">Arthur, prince of Wales</p>
+ </cell>
+ <cell style="No-Table-Style"/>
+ </row>
+ 
+ </table>
+ 
+ </div><div type="footnotes">
+ 
+ <note type="footnote" n="1"><space rend="indent1"/>In the prologue to <hi rend="italic">Charles the Great</hi>, Caxton thanked his parents for his schooling, since by it he has been able to support himself, as he says, “to gete my lyvyng.” </note>
+ 
+ 
+ <note type="footnote" n="2"><space rend="indent1"/>The Worshipful Company of Mercers was a London livery company, a trade association of merchants who exported wool and imported luxury fabrics. </note>
+ 
+ 
+ <note type="footnote" n="3"><space rend="indent1"/>Bruges, in modern Belgium, is a port city on the North Sea.</note>
+ 
+ 
+ <note type="footnote" n="4"><space rend="indent1"/>The Company of Merchant Adventurers was a trading company and London’s foremost guild of merchants selling to overseas ports and markets, especially those that traded in cloth and wool. At major international trading centers like Bruges, merchants and trading associations from foreign regions established bureaucracies and offices for conducting business; these were referred to as “Nations.”</note>
+ 
+ 
+ <note type="footnote" n="5"><space rend="indent1"/>Painter, <hi rend="italic">William Caxton</hi>, p. 44.</note>
+ 
+ 
+ <note type="footnote" n="6"><space rend="indent1"/>Blake, <hi rend="italic">Caxton and English Literary Culture</hi>, p. 2.</note>
+ 
+ 
+ <note type="footnote" n="7"><space rend="indent1"/>The Hanseatic League was a trading and defensive federation of northern German cities that dominated territories along the North Sea and the Baltic. </note>
+ 
+ 
+ <note type="footnote" n="8"><space rend="indent1"/>Deacon suggests that Caxton played a role in the intelligence network of the Tudors at the court of his patron, Margaret of Burgundy, during the Wars of the Roses (<hi rend="italic">Biography of William Caxton</hi>, p. 160). </note>
+ 
+ 
+ <note type="footnote" n="9"><space rend="indent1"/>The printing press had been introduced into Europe around 1440 by Johannes Guttenberg of Mainz, who had developed movable metal type. Presses were soon set up in other German cities, notably Strasbourg and Cologne, and German printers and pressmen brought the technology to Italy, France, and eastern Europe. A Benedictine monastery outside Rome set up the first Italian press in 1462. The first printed books in France came from the press established in 1470 at Paris by the Sorbonne. In Cologne, Caxton and Colard Mansion learned the art of printing; the latter set up his press at Bruges in 1472, and Caxton was printing in London four years later. From the 1470s on, presses could be found in cities throughout the Continent.</note>
+ 
+ 
+ <note type="footnote" n="10"><space rend="indent1"/>In the fifteenth century, the demand for books increased and there was an “almost insatiable market for liturgical material, particularly books of hours” (Kuskin, <hi rend="italic">Symbolic Caxton</hi>, p. 109).</note>
+ 
+ 
+ <note type="footnote" n="11"><space rend="indent1"/>The Wars of the Roses (1455–1485) were a series of civil wars in which the noble families of York and Lancaster asserted their claims to the English throne. The male lines of both families were extinguished in a series of battles and political murders, leading to the rise of the Tudors and the establishment of their dynasty. </note>
+ 
+ 
+ <note type="footnote" n="12"><space rend="indent1"/>Caxton created chapters, added a table of contents, and abbreviated Malory’s passages of alliterative prose, among other edits. </note>
+ 
+ 
+ <note type="footnote" n="13"><space rend="indent1"/>Blake, <hi rend="italic">Caxton and</hi><hi rend="italic"> English Literary Culture</hi>, p. 4; Kuskin, <hi rend="italic">Symbolic Caxton</hi>, pp. 18–19. </note>
+ 
+ 
+ <note type="footnote" n="14"><space rend="indent1"/>Despres, “Translation Techniques,” pp. 11–12. Henry IV (r. 1399–1413) began the process of shifting to English as the language of the court. </note>
+ 
+ 
+ <note type="footnote" n="15"><space rend="indent1"/>John Gower (1330–1408) is best known for the <hi rend="italic">Confessio</hi>, a frame narrative of an aging lover’s confession to the chaplain of Venus. The poem includes tales illustrating the seven deadly sins and an exposition on the ills of society; it was very popular. Gower also wrote long poems in Latin (<hi rend="italic">Vox Clamantis</hi>) and French (<hi rend="italic">Mirour de</hi><hi rend="italic"> l’Omme</hi>) for the edification of the court of Edward III.</note>
+ 
+ 
+ <note type="footnote" n="16"><space rend="indent1"/>John Lydgate (1370–1451) was a Benedictine monk and prolific poet, distinguished for his <hi rend="italic">Troy Book</hi>, <hi rend="italic">Sege of Thebes</hi>, and <hi rend="italic">Fall of Princes</hi> (a treatise comprised of stories of historical and legendary figures). His writings include examples of most major genres, among them several saint’s lives.</note>
+ 
+ 
+ <note type="footnote" n="17"><space rend="indent1"/>This manuscript shows signs of having been in Caxton’s shop (Hellinga, “Malory Manuscript,” p. 137). Later treatments of the Arthurian legend, including Tennyson’s, were based on Caxton’s considerably edited <hi rend="italic">Morte</hi>. </note>
+ 
+ 
+ <note type="footnote" n="18"><space rend="indent1"/>William Langland (1330–1386) composed several versions of <hi rend="italic">Piers </hi><hi rend="italic">Plowman</hi>, a dream vision and allegory of moral, spiritual, and ecclesiastical reform in the form of a pilgrimage. This long alliterative poem circulated widely. </note>
+ 
+ 
+ <note type="footnote" n="19"><space rend="indent1"/>Richard Rolle (d. 1349) was a mystic and author of the visionary poem, <hi rend="italic">The Fire of</hi><hi rend="italic"> Love</hi>, among many other works including Latin commentaries on the Bible and a guide for anchoresses.</note>
+ 
+ 
+ <note type="footnote" n="20"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, p. 109.</note>
+ 
+ 
+ <note type="footnote" n="21"><space rend="indent1"/>Many of the important manuscript collections of Middle English literature, particularly verse romances, were produced in the latter part of the fifteenth century (Cambridge Ff. 2.38, Cotton Caligula A.ii, Rawlinson C86, Ashmole 19.3, and the Thornton manuscripts). Carol M. Meale identifies twenty-one romances (excluding those by court poets) that are extant in manuscripts but also survive in printed editions (“Caxton, de Worde,” p. 285). Helen Cooper’s appendix catalogues English romances in print after 1500 (<hi rend="italic">English Romance in Time</hi>, pp. 409–29).</note>
+ 
+ 
+ <note type="footnote" n="22"><space rend="indent1"/>Pearsall, “English Romance,” p. 79. </note>
+ 
+ 
+ <note type="footnote" n="23"><space rend="indent1"/>Diane Bornstein uses the term “Burgundian renaissance” to refer to a re-invigoration of English culture and literature, especially at the court of Edward IV (“William Caxton’s Chivalric Romances,” p. 1). The king had visited Bruges for the marriage of his sister to Charles the Bold, and in exile (1470–1471) had sought refuge in The Hague under the protection of Louis de Gruuthuse (de Bruges). Caxton’s translations and publications of works by his continental contemporaries also reveal his connections to literary communities “well beyond the Burgundian world,” as Goodman notes (“Caxton’s Continent,” p. 104). </note>
+ 
+ 
+ <note type="footnote" n="24"><space rend="indent1"/>Christine de Pizan (1364–1430) was an intellectual and court writer for Charles VI of France and to the Burgundian court. Her extensive oeuvre includes many treatises of advice to princes and princesses, notably <hi rend="italic">Book of the City of Ladies</hi> and <hi rend="italic">Treasury of the City of Ladies</hi>, as well as <hi rend="italic">Deeds</hi><hi rend="italic"> of Arms and Chivalry</hi>.</note>
+ 
+ 
+ <note type="footnote" n="25"><space rend="indent1"/>Raymond Lull (1232–1316) was a Spanish philosopher and missionary. Many of his Latin writings set forth a system of universal logic, but he also authored a treatise, the <hi rend="italic">Ordre of Chyvalry</hi>, as well as prose narratives in the vernacular.</note>
+ 
+ 
+ <note type="footnote" n="26"><space rend="indent1"/>Geoffrey de la Tour-Landry (1330–1406), a French nobleman, composed books of manners and moral instruction for his sons and daughters. Only the latter survives; it was a popular conduct book in the fifteenth century. </note>
+ 
+ 
+ <note type="footnote" n="27"><space rend="indent1"/>Blake, <hi rend="italic">Caxton and His World</hi>, p. 68.</note>
+ 
+ 
+ <note type="footnote" n="28"><space rend="indent1"/>Caxton could have encountered the secretary in his diplomatic and mercantile activities. Le Fèvre translated his histories from sources in Latin.</note>
+ 
+ 
+ <note type="footnote" n="29"><space rend="indent1"/>Bornstein, “William Caxton’s Chivalric Romances,” p. 5. Louis’s library commissioned manuscripts from Colard Mansion, the scribe and book-dealer who later brought the printing press to Bruges where Caxton published <hi rend="italic">The Recuyell</hi> and <hi rend="italic">The Game</hi><hi rend="italic"> and Playe of the Chesse</hi>. </note>
+ 
+ 
+ <note type="footnote" n="30"><space rend="indent1"/>Lille was a major supplier of bespoke manuscripts to noble houses of northern France and Flanders, and of plainer copies to the markets.</note>
+ 
+ 
+ <note type="footnote" n="31"><space rend="indent1"/>Marchal, “L’existence d’un manuscrit,” p. 271</note>
+ 
+ 
+ <note type="footnote" n="32"><space rend="indent1"/>Marchal, “L’existence d’un manuscrit,” p. 270; <hi rend="italic">MWCP</hi>, pp. 68–69. Members of the Croy family also patronized Colard Mansion (see <ref target="insert-internal-link" type="internal">note 29</ref>, above). Antoine Croy, count of Gueinne (d. 1475) was minister to Philip the Good and Governor General of territories now in Belgium and Luxembourg, as was his son, Philip (d. 1511), who was raised with Charles the Bold.</note>
+ 
+ 
+ <note type="footnote" n="33"><space rend="indent1"/>Marchal, “L’existence d’un manuscrit,” p. 266.</note>
+ 
+ 
+ <note type="footnote" n="34"><space rend="indent1"/>Wynkyn de Worde (of Worth, in Lorraine) accompanied Caxton from Bruges to England and continued to work for him, inheriting the business at his death in 1491. </note>
+ 
+ 
+ <note type="footnote" n="35"><space rend="indent1"/>Meale, “Caxton, de Worde,” p. 295. De Worde printed a wider range of material already in English than did Caxton, including many popular verse romances (Blake, <hi rend="italic">Caxton and His World</hi>, p. 214). </note>
+ 
+ 
+ <note type="footnote" n="36"><space rend="indent1"/>In 1477, when <hi rend="italic">Jason</hi> was printed, the prince was seven years old and would have been learning to read Latin, and French, which was still in use at court. The Tudors decreed English to be the language of government in 1490, though Henry IV (d. 1413) began the shift.</note>
+ 
+ 
+ <note type="footnote" n="37"><space rend="indent1"/>Bornstein, “William Caxton’s Chivalric Romances,” p. 4. </note>
+ 
+ 
+ <note type="footnote" n="38"><space rend="indent1"/>Goodman, “Caxton’s Continent,” p. 106.</note>
+ 
+ 
+ <note type="footnote" n="39"><space rend="indent1"/>The copy in the Huntington Library (STC 7269) bears her inscription and her note that the book was given to her by Henry (Nall, “Margaret Beaufort’s Books,” p. 213).</note>
+ 
+ 
+ <note type="footnote" n="40"><space rend="indent1"/>Caxton based his translation of the <hi rend="italic">Ordre</hi> on a French book belonging to Anthony Woodville, who had been executed by Richard III in the year before Caxton published his book.</note>
+ 
+ 
+ <note type="footnote" n="41"><space rend="indent1"/>Caxton, <hi rend="italic">Game and Playe</hi>, ed. J. Adams, p. 15.</note>
+ 
+ 
+ <note type="footnote" n="42"><space rend="indent1"/>Krug, “Margaret Beaufort,” p. 78.</note>
+ 
+ 
+ <note type="footnote" n="43"><space rend="indent1"/>Kuskin gives a detailed reading of the engraving as it symbolizes the social and literary authority of the printed text (<hi rend="italic">Symbolic Caxton</hi>, pp. 97–102).</note>
+ 
+ 
+ <note type="footnote" n="44"><space rend="indent1"/>Goodman suggests that the kneeling figure may be a portrait of Caxton himself (“Caxton’s Continent,” p. 106).</note>
+ 
+ 
+ <note type="footnote" n="45"><space rend="indent1"/>See ed. Blake, <hi rend="italic">Caxton’s Prose</hi>, p. 140; Kuskin, <hi rend="italic">Symbolic </hi><hi rend="italic">Caxton</hi>, p. 206; and <hi rend="italic">Blanchardyn and Eglantine</hi>, Dedication.1, for examples of such dedications. </note>
+ 
+ 
+ <note type="footnote" n="46"><space rend="indent1"/>Wang, “Tudor Readers,” pp. 180–81. Thorney bound his copy of <hi rend="italic">The Recuyell of Troye</hi> with Caxton’s prints of Chaucer’s <hi rend="italic">Troilus</hi>, the romances of the <hi rend="italic">Canterbury Tales</hi>, and a manuscript of Lydgate’s <hi rend="italic">Siege of</hi><hi rend="italic"> Thebes</hi>. Other owners of copies of Caxton’s romances bound them with additional romances and chivalric materials.</note>
+ 
+ 
+ <note type="footnote" n="47"><space rend="indent1"/>Wang, “Tudor Readers,” p. 182.</note>
+ 
+ 
+ <note type="footnote" n="48"><space rend="indent1"/>Wang, “Tudor Readers,” pp. 182–84.</note>
+ 
+ 
+ <note type="footnote" n="49"><space rend="indent1"/>Wang, “Tudor Readers,” pp. 184–88.</note>
+ 
+ 
+ <note type="footnote" n="50"><space rend="indent1"/>Wang, “Tudor Readers,” p. 185.</note>
+ 
+ 
+ <note type="footnote" n="51"><space rend="indent1"/>I am indebted to John Bloch Friedman for help identifying this individual (E-mail, August 7, 2017).</note>
+ 
+ 
+ <note type="footnote" n="52"><space rend="indent1"/>Kuskin, <hi rend="italic">Symbolic Caxton</hi>, p. 106. The Pastons’ employee, John Pamping, may have purchased an indulgence printed at his press (Painter, <hi rend="italic">William Caxton</hi>, p. 169).</note>
+ 
+ 
+ <note type="footnote" n="53"><space rend="indent1"/>Ed. Lester, <hi rend="italic">Sir John Paston’s “Grete Boke,”</hi> pp. 54–55. John Paston’s inventory of his books lists “A boke in preente off the Pleye of the Chesse.” The list was drawn up before 1479, so this must have been Caxton’s edition of 1474.</note>
+ 
+ 
+ <note type="footnote" n="54"><space rend="indent1"/>Matheson, “Printer and Scribe,” p. 599. </note>
+ 
+ 
+ <note type="footnote" n="55"><space rend="indent1"/>Adams, “Printing and the Transformation,” p. 295.</note>
+ 
+ 
+ <note type="footnote" n="56"><space rend="indent1"/>Caxton’s program of publications concentrated on this cycle, as he explains in the prologues to <hi rend="italic">Le Morte d</hi><hi rend="italic">’e Arthur</hi> and <hi rend="italic">Charles the Great</hi>: “Thenne for as moche I late had fynysshed in enprynte the bok of the noble vyctoryous kyng Arthur fyrst of the thre moost noble and worthy of crysten kynges. and also tofore had reduced in to englisshe the noble hystorye and lyf of Godefroy of boloyn kyng of Jerusalem, last of the said iii worthy, Somme persones of noble estate and degree haye desyred me to reduce thystorye and lyf of the noble and crysten prynce Charles the grete kyng of fraunce and emperour of Rome, the second of the thre worthy” (ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, pp. 96–97). He also mentions his translation and publication of the histories’ three pagan worthies: Hector, Aeneas, and Jason. Three Jews (Joshua, David, and Judas Maccabeus) completed the programmatic nine, though Caxton did not publish histories of these Old Testament heroes (also see the prologue to <hi rend="italic">Godfrey of Boulogne </hi>in ed. Colvin, pp. 1–5). These figures appeared in many narrative cycles, and were a favorite subject for paintings, tapestries, and other artifacts in the later Middle Ages.</note>
+ 
+ 
+ <note type="footnote" n="57"><space rend="indent1"/>The Order was founded in celebration of Philip’s marriage to Isabel of Portugal, to the honor of God and chivalry. Its emblem, a golden sheepskin, commemorated Jason’s heroic quest. Its thirty noble members observed quasi-ecclesiastical rituals and passed judgment on cases of unchivalrous conduct, in addition to participating in tournaments and other occasions for displays of arms. </note>
+ 
+ 
+ <note type="footnote" n="58"><space rend="indent1"/>Duke Philip commissioned the composition of the French romance to commemorate the Order. Caxton’s translation of <hi rend="italic">Jason</hi> for Edward IV is related to his induction into the Order at his sister’s wedding. The king owned a copy in French. </note>
+ 
+ 
+ <note type="footnote" n="59"><space rend="indent1"/><hi rend="italic">MWCP</hi>, p. 10n10.</note>
+ 
+ 
+ <note type="footnote" n="60"><space rend="indent1"/><hi rend="italic">MWCP</hi>, pp. 8–10.</note>
+ 
+ 
+ <note type="footnote" n="61"><space rend="indent1"/>The heraldic account of the <hi rend="italic">Pas de la Perron Féé</hi> [Pass (of arms) of the Magic Pillar] (1462) notes the importance of rich merchants to supply those things necessary to a great feast (<hi rend="italic">MWCP</hi>, pp. 11–12). </note>
+ 
+ 
+ <note type="footnote" n="62"><space rend="indent1"/>Barron, “Chivalry, Pageantry and Merchant Culture,” p. 239. Earlier, in the fourteenth century, leading merchants had the wealth and connections to procure knighthoods, but seldom chose to. While Londoners were aware of the codes and practices of chivalry, they developed their own forms of civic ceremony and pageantry parallel to tournaments. </note>
+ 
+ 
+ <note type="footnote" n="63"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, p. 82.</note>
+ 
+ 
+ <note type="footnote" n="64"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, pp. 82–83.</note>
+ 
+ 
+ <note type="footnote" n="65"><space rend="indent1"/><hi rend="italic">MWCP</hi>, p. 89.</note>
+ 
+ 
+ <note type="footnote" n="66"><space rend="indent1"/>Adams, “Noble, wyse and grete lordes” p. 56. Conduct literature, designed to inculcate social norms in manners and morals, offered instruction in proper behavior from grooming to deportment and daily devotions. Caxton’s <hi rend="italic">Book of Good Manners</hi> falls into this category; this manual of popular theology for devotional reading includes a treatise on the vices and virtues as practiced by the different orders of society. </note>
+ 
+ 
+ <note type="footnote" n="67"><space rend="indent1"/>Bornstein, “William Caxton’s Chivalric Romances,” p. 6. Nicholls’s <hi rend="italic">Matter of </hi><hi rend="italic">Courtesy</hi> is a thorough introduction to courtesy books and romance as courtesy literature. See also Bornstein, <hi rend="italic">Mirrors of Courtesy</hi> and <hi rend="italic">Lady in the Tower</hi>. </note>
+ 
+ 
+ <note type="footnote" n="68"><space rend="indent1"/>Bartlett, “Translation, Self-Representation,” p. 57; Mirrors (<hi rend="italic">Specula</hi>), treatises ostensibly for the education of rulers, were a form of conduct literature that included instruction in politics, governance, and Christian life illustrated with examples from history and legend. Caxton’s <hi rend="italic">Royal Book</hi> is an example.</note>
+ 
+ 
+ <note type="footnote" n="69"><space rend="indent1"/>The phrase appears at 15.4, 21.2, 23.3, 26.7, and 42.2. The word <hi rend="italic">curtsy</hi> is derived from <hi rend="italic">courtesy</hi> (Nicholls, <hi rend="italic">Matter </hi><hi rend="italic">of Courtesy</hi>, p. 13).</note>
+ 
+ 
+ <note type="footnote" n="70"><space rend="indent1"/><hi rend="italic">The Babee’s Boke</hi> and <hi rend="italic">The</hi><hi rend="italic"> Boke of Curtasye</hi> are found in ed. Furnivall, <hi rend="italic">Early English</hi><hi rend="italic"> Meals and Manners</hi>. <hi rend="italic">Generydes</hi>, another fifteenth-century romance, is also concerned with etiquette and courtly manners for “there is much attention to ceremonies of meeting and leave-taking,” and observation of proprieties (Pearsall, “English Romance,” p. 70). <hi rend="italic">Jean de Saintr</hi><hi rend="italic">é</hi> (1456), which relates the education of a knight, is a fusion of romance and chivalric biography. Geoffrey de la Tour-Landry is thought to be the author of the pedagogic romance <hi rend="italic">Ponthus et la Belle Sidoine</hi>, an adaptation of <hi rend="italic">Horn et Rimenild</hi>, “designed to exemplify the rules of behavior proper to a gentleman.” An English translation was printed by Wynkyn de Worde in 1505 and in 1510–1511 (Dunn, “Romances Derived,” pp. 22, 210).</note>
+ 
+ 
+ <note type="footnote" n="71"><space rend="indent1"/>The debate concerns whether or not their daughters should be allowed to show “favor” to knights, attend jousts, and give men tokens such as sleeves to wear in a public sign of support. The Knight’s is the standard argument for chivalry, but he has earlier expressed disapproval of the conduct of knights at tournaments, based on his own experiences. The wife’s negative and conservative position more nearly aligns with her husband’s comments elsewhere in the treatise (Caxton, <hi rend="italic">Knight of the Tour-Landry</hi>, ed. Wright, pp. 171–86).</note>
+ 
+ 
+ <note type="footnote" n="72"><space rend="indent1"/>Bornstein, “William Caxton’s Chivalric Romances,” pp. 5–9. Caxton points out to the reader the usefulness of these features in his prologue to <hi rend="italic">Charles the Great</hi> and elsewhere. </note>
+ 
+ 
+ <note type="footnote" n="73"><space rend="indent1"/>Brown-Grant, “Narrative Style,” p. 375.</note>
+ 
+ 
+ <note type="footnote" n="74"><space rend="indent1"/>Leach, p. xxi.</note>
+ 
+ 
+ <note type="footnote" n="75"><space rend="indent1"/>The Muslims of <hi rend="italic">Paris and Vienne</hi> are accepted “at face value” (Cooper, “Going Native,” p. 30).</note>
+ 
+ 
+ <note type="footnote" n="76"><space rend="indent1"/>Painter, <hi rend="italic">William Caxton</hi>, p. 150; Pearsall makes much the same point (“English Romance,” p. 82); Schlauch observes that <hi rend="italic">Paris and </hi><hi rend="italic">Vienne</hi> and <hi rend="italic">Blanchardyn and Eglantine</hi>, “belong[ed] distinctly to a medieval tradition, but . . . contribut[ed] to the shaping of later fiction in a realistic vein” (<hi rend="italic">Antecedents</hi>, p. 65). </note>
+ 
+ 
+ <note type="footnote" n="77"><space rend="indent1"/><hi rend="italic">Olyver </hi><hi rend="italic">of Castylle</hi> is set in Iberia, Ireland, and England, regions that French and English readers would have associated with current events (Williams, “England, Ireland, and Iberia” p. 94).</note>
+ 
+ 
+ <note type="footnote" n="78"><space rend="indent1"/>Kellner, pp. cxvii–cvxiii, includes summaries of the verse romance.</note>
+ 
+ 
+ <note type="footnote" n="79"><space rend="indent1"/>See Rajabzadeh, “Depoliticized Saracen and Muslim Erasure” and Kennedy, “Moors and Moorishness” for discussion of the terms <hi rend="italic">Saracen</hi> and <hi rend="italic">Moor</hi>. Kennedy refers specifically to <hi rend="italic">Paris and Vienne</hi>. </note>
+ 
+ 
+ <note type="footnote" n="80"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and</hi><hi rend="italic"> Epilogues</hi>, p. 58.</note>
+ 
+ 
+ <note type="footnote" n="81"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, p. 107.</note>
+ 
+ 
+ <note type="footnote" n="82"><space rend="indent1"/>Blake, <hi rend="italic">Caxton and English Literary Culture</hi>, p. 120.</note>
+ 
+ 
+ <note type="footnote" n="83"><space rend="indent1"/>The curial style of writing and of textual presentation, developed by court bureaucrats, supplied necessary clarity to legal and administrative documents. It made use of devices promoting textual cohesion such as titles, headings, and transitions between sections and further adapted to its audience by striving for “congratulatory ceremoniousness” and carefully observing protocol and rank (Burnley, “Curial Prose,” p. 596).</note>
+ 
+ 
+ <note type="footnote" n="84"><space rend="indent1"/>Brown-Grant, “Narrative Style,” p. 391.</note>
+ 
+ 
+ <note type="footnote" n="85"><space rend="indent1"/>Leach, p. xxx; Kellner, p. cxi. Leach notes that Caxton’s prose style developed over his career as translator but did not rise to the levels of Peacock’s or Malory’s (p. xxvi). According to Painter, “Caxton was, and knew he was, surpassed by few Englishmen of his time as a master of French and of English prose” (<hi rend="italic">William Caxton</hi>, p. 39). </note>
+ 
+ 
+ <note type="footnote" n="86"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, pp. 108–09. This prologue includes lengthy commentary on the state of the English language in the transitional period from medieval to early modern.</note>
+ 
+ 
+ <note type="footnote" n="87"><space rend="indent1"/>Ed. Crotch, <hi rend="italic">Prologues and Epilogues</hi>, p. 109.</note>
+ 
+ </div></body></text></TEI>
