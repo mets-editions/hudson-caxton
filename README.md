@@ -2,7 +2,7 @@
 
 This repository is for the edition _William Caxton's Paris and Vienne and Blanchardyn and Eglantine_, edited by Harriet Hudson. It contains:
 
-- TEI-XML files of the digital edition. Last file updated: 10/02/2024
+- TEI-XML files of the digital edition. Last file updated: 01/13/2025
 
 - A PDF of the entire edition. Current version: 09/25/2024
 
